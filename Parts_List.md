@@ -72,51 +72,132 @@ http://www.uline.com/BL_6063/3M-F946...ords=3MF9460PC
 
 ## Dome
 
-###### Dome:
-DOME Aluminum, Laser Cut
+**Dome**
+DOME Aluminum, Laser Cut  
 https://astromech.net/forums/showthread.php?35507-DOME-Aluminum-Laser-Cut-BC-Approved-539-2019
 
-###### Radar Eye:
+**Radar Eye**
 https://www.graniteearth.com/ProductDetails.asp?ProductCode=PAY-RadarEye-CSR-R2-Builders
-ordered 2/13/2021
-received
+ordered 2/13/2021  
+received  
 
-###### Radar Eye Lens:
+**Radar Eye Lens**
 https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-(September-2019)-Open&highlight=radar+eye+lens
-ordered 2/13/2021
-received
+ordered 2/13/2021  
+received  
 
-###### CNC Polycarbonate Dome Gears
+**CNC Polycarbonate Dome Gears**
 https://astromech.net/forums/showthread.php?35844-CNC-Polycarbonate-Dome-Gears-60-(August-2018)-OPEN&highlight=open
-ordered and paid for -- 6/13/2021
-arrived -- 6/??/2021
+ordered and paid for -- 6/13/2021  
+arrived -- 6/??/2021  
 
-###### Curved Rear Logic Display + Front Logic Displays
+**Curved Rear Logic Display + Front Logic Displays**
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic
-https://www.rebelscum.com/estore/products.asp?cat=182
+https://www.rebelscum.com/estore/products.asp?cat=182  
 
-###### Holo Projectors  — three needed (front, rear, top)
+**Holo Projectors  — three needed (front, rear, top)**
 https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-Approved-(Open)
-https://www.rebelscum.com/estore/products.asp?cat=182
+https://www.rebelscum.com/estore/products.asp?cat=182  
 
-###### Life Form Scanner
-https://astromech.net/forums/showthread.php?35947-Life-Form-Scanner-BC-Approved-170-(Oct-2018)-Open/page12&highlight=life+form+scanner
+**Life Form Scanner**
+https://astromech.net/forums/showthread.php?35947-Life-Form-Scanner-BC-Approved-170-(Oct-2018)-Open/page12&highlight=life+form+scanner  
 
-###### Magic Panel
-https://ia-parts.com/store/Magic-panel-p73373389
+**Magic Panel**
+https://ia-parts.com/store/Magic-panel-p73373389  
 
-###### Rockler Bearing
-https://www.rockler.com/lazy-susan-heavy-duty-swivel
-purchased
-modified
-installed
+**Rockler Bearing**
+https://www.rockler.com/lazy-susan-heavy-duty-swivel  
+purchased  
+modified  
+installed  
 
-###### PSI Diffusers
-https://astromech.net/forums/showthread.php?40110-PSI-Diffuser-Lenses-by-Revvek-BC-Approved-10-(August-2020)
+**PSI Diffusers**
+https://astromech.net/forums/showthread.php?40110-PSI-Diffuser-Lenses-by-Revvek-BC-Approved-10-(August-2020)  
 
 
 ## Legs and Feet
 
+*Main Leg*
+https://www.commandoeight.com/product-page/legs
+
+*Shoulder Flanges*
+built into Holme frame  
+
+**Shoulder Horseshoes**
+https://www.commandoeight.com/product-page/horse-shoe-set  
+
+**Shoulder Hub**
+
+**Booster Covers**
+
+**Leg Struts**
+https://www.commandoeight.com/product-page/aluminum-leg-struts
+
+**Shoulder Hydraulics**
+https://www.commandoeight.com/product-page/shoulder-hydraulic-set
+
+**Shoulder Buttons**
+https://www.commandoeight.com/product-page/shoulder-button-set
+
+**Ankle Bracelet**
+
+**Outer Ankles**
+https://www.commandoeight.com/product-page/csr-outer-ankles
+
+**Ankle Details**
+https://www.commandoeight.com/product-page/ankle-detail-set
+
+**Ankle Cylinder Wedges** 
+
+**Ankle Cylinders**
+https://www.commandoeight.com/product-page/ankle-cylinder-set
+
+**Ankle Cylinder Holders**
+https://www.commandoeight.com/product-page/ankle-cylinder-set
+
+**Under Shoulder Details**
+https://www.commandoeight.com/product-page/under-shoulder-detail-set-angled
+
+**Main Footshell** 
+Outer  
+https://www.commandpatrickbrownoeight.com/product-page/aluminum-outer-footshell-set-2  
+Center  
+https://www.commandoeight.com/product-page/aluminum-center-foot-shell  
+
+**Foot Side Plate**  
+
+**Half Moon Details**  
+
+**Foot Details**  
+
+**Battery Boxes**  
+https://astromech.net/forums/showthread.php?40030-CS-R-Aluminum-Battery-Boxes-BC-Approved-305-(July-2020)-Open  
+
+**Battery Box Harnesses**  
+https://www.commandoeight.com/product-page/battery-harness-set  
+
+**Foot Hoses**  
+
+**Knurled Fittings**  
+https://www.commandoeight.com/product-page/knurl-hosefittings  
+
+**Foot Strips**  
+
+**Center Ankle**  
+https://www.commandoeight.com/product-page/center-ankle  
+
+**Hinges**  
+The Ultimate Hinge Collection, Dome & Body  
+https://holmemadeparts.com/R2-Dome-Hinges_c2.htm  
+https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN
+
+**Powder Coating**
+https://www.prismaticpowders.com/shop/powder-coating-colors/PPB-4711/bentley-blue  
+https://www.prismaticpowders.com/shop/powder-coating-colors/PSS-0408/cloud-white  
+
+**VEX Wheels for Center Foot**  
+https://www.vexrobotics.com/customer/account/?q=&locale.name=English  
+Ordered Nov 14th 2021  
 
 
 ## Electronics
