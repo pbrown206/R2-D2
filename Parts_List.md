@@ -3,24 +3,24 @@
 ## Body
 
 **Holme Frame with 3-2-3**
-Ordered -- 2-25-2021
-Paid via PayPal -- 5-5-2021
-Shipped -- 6-5-2021
-Arrived -- 6-9-2021
-The Holme Made Frame and 3-2-3 System
+Ordered -- 2-25-2021  
+Paid via PayPal -- 5-5-2021  
+Shipped -- 6-5-2021  
+Arrived -- 6-9-2021  
+The Holme Made Frame and 3-2-3 System  
 https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now
 https://holmemadeparts.com/Holme-Made-Frame-HMF.htm
 
 **Skins**
-CS:Rh - Skin version used for Kevin's Holme Made Frame
+CS:Rh - Skin version used for Kevin's Holme Made Frame  
 https://astromech.net/forums/showthread.php?28258-Skins-CS-L-amp-CS-R-BC-Approved-275-(May-2016)-Open
 https://www.newwookiee.com/estore/products.asp?cat=182
-ordered -- 11/24/2021
-received -- 12/1/2021
+ordered -- 11/24/2021  
+received -- 12/1/2021  
 
 **Flat Side Plates for Holme Frame**
-https://www.newwookiee.com/estore/products.asp?cat=182
-waiting for stock
+https://www.newwookiee.com/estore/products.asp?cat=182  
+waiting for stock  
 
 **Large Data Port**
 https://renev.biz/product/renev-r2d2-large-data-port-csr-aluminum-new/
