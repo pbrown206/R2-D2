@@ -53,20 +53,20 @@ https://astromech.net/forums/showthread.php?31133-Power-Couplers-CS-R-BC-Approve
 https://renev.biz/product/renev-r2d2-power-couplers-csr-aluminum-new/
 
 **Octagonal Ports**  
-https://astromech.net/forums/showthread.php?32750-Octagon-Ports-CS-R-BC-Approved-275-(August-2017)-Open
-https://renev.biz/product/renev-r2d2-octagon-ports-csr-aluminum-new/
+https://astromech.net/forums/showthread.php?32750-Octagon-Ports-CS-R-BC-Approved-275-(August-2017)-Open  
+https://renev.biz/product/renev-r2d2-octagon-ports-csr-aluminum-new/  
 
 **Skirt**  
-https://astromech.net/forums/showthread.php?20429-Skirt-BC-Approved-300-(Dec-2014)-Open
-ordered -- 11/11/2021
-received -- 11/20/2021
-installed
+https://astromech.net/forums/showthread.php?20429-Skirt-BC-Approved-300-(Dec-2014)-Open  
+ordered -- 11/11/2021  
+received -- 11/20/2021  
+installed  
 
 **3M VHB Tape**  
-5 mil, for bonding the main skins
-http://www.uline.com/BL_6036/3M-F946...ords=3MF9469PC
-2 mil, for bonding the panel frames
-http://www.uline.com/BL_6063/3M-F946...ords=3MF9460PC
+5 mil, for bonding the main skins  
+http://www.uline.com/BL_6036/3M-F946...ords=3MF9469PC  
+2 mil, for bonding the panel frames  
+http://www.uline.com/BL_6063/3M-F946...ords=3MF9460PC  
 
 
 
