@@ -3,38 +3,38 @@
 ## Body
 
 **Holme Frame with 3-2-3**  
-Ordered -- 2-25-2021  
-Paid via PayPal -- 5-5-2021  
-Shipped -- 6-5-2021  
-Arrived -- 6-9-2021  
 The Holme Made Frame and 3-2-3 System  
 https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now  
 https://holmemadeparts.com/Holme-Made-Frame-HMF.htm  
+*Ordered -- 2-25-2021*  
+*Paid via PayPal -- 5-5-2021*  
+*Shipped -- 6-5-2021*  
+*Arrived -- 6-9-2021*  
 
 **Skins**  
 CS:Rh - Skin version used for Kevin's Holme Made Frame  
 https://astromech.net/forums/showthread.php?28258-Skins-CS-L-amp-CS-R-BC-Approved-275-(May-2016)-Open  
 https://www.newwookiee.com/estore/products.asp?cat=182  
-ordered -- 11/24/2021  
-received -- 12/1/2021  
+*ordered -- 11/24/2021*  
+*received -- 12/1/2021*  
 
 **Flat Side Plates for Holme Frame**  
 https://www.newwookiee.com/estore/products.asp?cat=182  
-waiting for stock  
+*waiting for stock*  
 
 **Large Data Port**  
 https://renev.biz/product/renev-r2d2-large-data-port-csr-aluminum-new/  
-ordered -- 12/24/2021  
+*ordered -- 12/24/2021*  
 
 **Utility Arms**  
 https://astromech.net/forums/showthread.php?37695-BC-Approved-CS-R-Utility-Arms-(June-2019)-235  
 https://renev.biz/product/renev-r2d2-utility-arms-csr-aluminum-new/  
-ordered -- 12/24/2021  
+*ordered -- 12/24/2021*  
 
 **Utility Arm Mount System**  
 https://astromech.net/forums/showthread.php?34919-CS-L-CS-R-Skin-Mount-Utility-Arm-Carrier-and-Mech-Kit-BC-Approved-130-Open  
 https://skajarobotics.com/product/skin-mount-utility-arm-carrier-kit/  
-ordered -- 11/28/2021  
+*ordered -- 11/28/2021*  
 
 **Front Vents**  
 https://www.commandoeight.com/product-page/center-vent-set  
@@ -58,9 +58,9 @@ https://renev.biz/product/renev-r2d2-octagon-ports-csr-aluminum-new/
 
 **Skirt**  
 https://astromech.net/forums/showthread.php?20429-Skirt-BC-Approved-300-(Dec-2014)-Open  
-ordered -- 11/11/2021  
-received -- 11/20/2021  
-installed  
+*ordered -- 11/11/2021*  
+*received -- 11/20/2021*  
+*installed*  
 
 **3M VHB Tape**  
 5 mil, for bonding the main skins  
@@ -78,18 +78,18 @@ https://astromech.net/forums/showthread.php?35507-DOME-Aluminum-Laser-Cut-BC-App
 
 **Radar Eye**  
 https://www.graniteearth.com/ProductDetails.asp?ProductCode=PAY-RadarEye-CSR-R2-Builders
-ordered 2/13/2021  
-received  
+*ordered 2/13/2021*  
+*received*  
 
 **Radar Eye Lens**  
 https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-(September-2019)-Open&highlight=radar+eye+lens
-ordered 2/13/2021  
-received  
+*ordered 2/13/2021*  
+*received*  
 
 **CNC Polycarbonate Dome Gears**  
 https://astromech.net/forums/showthread.php?35844-CNC-Polycarbonate-Dome-Gears-60-(August-2018)-OPEN&highlight=open
-ordered and paid for -- 6/13/2021  
-arrived -- 6/??/2021  
+*ordered and paid for -- 6/13/2021*  
+*arrived -- 6/??/2021*  
 
 **Curved Rear Logic Display + Front Logic Displays**  
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic
@@ -107,9 +107,9 @@ https://ia-parts.com/store/Magic-panel-p73373389
 
 **Rockler Bearing**  
 https://www.rockler.com/lazy-susan-heavy-duty-swivel  
-purchased  
-modified  
-installed  
+*purchased*  
+*modified*  
+*installed*  
 
 **PSI Diffusers**  
 https://astromech.net/forums/showthread.php?40110-PSI-Diffuser-Lenses-by-Revvek-BC-Approved-10-(August-2020)  
@@ -216,8 +216,8 @@ https://www.roboteq.com/products/products-brushless-dc-motor-controllers/sbl2360
 
 **Sabertooth 2x32 Motor Driver**  
 used for 3-2-3 system  
-ordered -- 6-24-2021  
-received  
+*ordered -- 6-24-2021*  
+*received*  
 https://www.robotshop.com/en/  sabertooth-dual-2x32a-6v-24v-regenerative-motor-driver.html  
 
 **Flthy's Holoprojector LED/Servo Control/Regulator; BC Aprvd: [$100]**  
@@ -234,8 +234,8 @@ https://www.pololu.com/product/2866
 
 **Servos for Dome Panels**  
 HiTec HS-65HB  
-bought six on 3/8/2021  
 https://www.servocity.com/hs-65hb-servo/  
+*bought six on 3/8/2021*  
 
 **Servos for Holo Projectors**  
 HiTec HS-53 <— scratch that, use HS-65HB instead  
@@ -263,14 +263,14 @@ https://www.actuonix.com/Actuonix-PQ12-R-micro-linear-servos-for-RC-p/pq12-r.htm
 **Dome Motor and Hub (purchased)**  
 https://www.pololu.com/product/4742  
 https://www.pololu.com/product/1999  <== 6mm hub  
-ordered 5/27/2021  
-arrived  
+*ordered 5/27/2021*  
+*arrived*  
 
 **Dome Motor Controller**  
 SyRen 10A 6V-24V  
 https://www.robotshop.com/en/dimension-engineering-syren-10.html  
-ordered 6/24/2021  
-received  
+*ordered 6/24/2021*  
+*received*  
 
 **Audio Amp**  
 Sure Electronics AA-AB32195 2x300W  
