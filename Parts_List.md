@@ -274,9 +274,9 @@ https://www.robotshop.com/en/dimension-engineering-syren-10.html
 
 **Audio Amp**  
 Sure Electronics AA-AB32195 2x300W  
-https://www.parts-express.com/  Sure-AA-AB32195-2x300W-Class-D-Audio-Amplifier-Board-T-Amp-Technology-320-3348  
+https://www.parts-express.com/Sure-AA-AB32195-2x300W-Class-D-Audio-Amplifier-Board-T-Amp-Technology-320-3348  
 Digital Volume Control Kit  
-https://www.parts-express.com/  Sure-AA-AA11117-Electric-Digital-Volume-Control-Kit-320-3180  
+https://www.parts-express.com/Sure-AA-AA11117-Electric-Digital-Volume-Control-Kit-320-3180  
 
 **MagTag Magnetic Dome Connector**  
 https://astromech.net/forums/showthread.php?33643-MagTag-Magnetic-Dome-Connectors-BC-Approved-Continuous-Various-(Oct-2017)-Open  
