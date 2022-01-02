@@ -8,13 +8,13 @@ Paid via PayPal -- 5-5-2021
 Shipped -- 6-5-2021  
 Arrived -- 6-9-2021  
 The Holme Made Frame and 3-2-3 System  
-https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now
-https://holmemadeparts.com/Holme-Made-Frame-HMF.htm
+https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now  
+https://holmemadeparts.com/Holme-Made-Frame-HMF.htm  
 
 **Skins**  
 CS:Rh - Skin version used for Kevin's Holme Made Frame  
-https://astromech.net/forums/showthread.php?28258-Skins-CS-L-amp-CS-R-BC-Approved-275-(May-2016)-Open
-https://www.newwookiee.com/estore/products.asp?cat=182
+https://astromech.net/forums/showthread.php?28258-Skins-CS-L-amp-CS-R-BC-Approved-275-(May-2016)-Open  
+https://www.newwookiee.com/estore/products.asp?cat=182  
 ordered -- 11/24/2021  
 received -- 12/1/2021  
 
@@ -23,34 +23,34 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 waiting for stock  
 
 **Large Data Port**  
-https://renev.biz/product/renev-r2d2-large-data-port-csr-aluminum-new/
-ordered -- 12/24/2021
+https://renev.biz/product/renev-r2d2-large-data-port-csr-aluminum-new/  
+ordered -- 12/24/2021  
 
 **Utility Arms**  
-https://astromech.net/forums/showthread.php?37695-BC-Approved-CS-R-Utility-Arms-(June-2019)-235
-https://renev.biz/product/renev-r2d2-utility-arms-csr-aluminum-new/
-ordered -- 12/24/2021
+https://astromech.net/forums/showthread.php?37695-BC-Approved-CS-R-Utility-Arms-(June-2019)-235  
+https://renev.biz/product/renev-r2d2-utility-arms-csr-aluminum-new/  
+ordered -- 12/24/2021  
 
 **Utility Arm Mount System**  
-https://astromech.net/forums/showthread.php?34919-CS-L-CS-R-Skin-Mount-Utility-Arm-Carrier-and-Mech-Kit-BC-Approved-130-Open
-https://skajarobotics.com/product/skin-mount-utility-arm-carrier-kit/
-ordered -- 11/28/2021
+https://astromech.net/forums/showthread.php?34919-CS-L-CS-R-Skin-Mount-Utility-Arm-Carrier-and-Mech-Kit-BC-Approved-130-Open  
+https://skajarobotics.com/product/skin-mount-utility-arm-carrier-kit/  
+ordered -- 11/28/2021  
 
 **Front Vents**  
-https://www.commandoeight.com/product-page/center-vent-set
+https://www.commandoeight.com/product-page/center-vent-set  
 
 **Side & Pocket Vents**  
-https://astromech.net/forums/showthread.php?28363-CS-L-amp-CS-R-Side-amp-Pocket-Vents-BC-Approved-Various-Open
+https://astromech.net/forums/showthread.php?28363-CS-L-amp-CS-R-Side-amp-Pocket-Vents-BC-Approved-Various-Open  
 
 **Coin Slots**  
-https://www.commandoeight.com/product-page/coin-slots-csr
+https://www.commandoeight.com/product-page/coin-slots-csr  
 
 **Coin Returns**  
 Came with skins  
 
 **Power Couplings**  
-https://astromech.net/forums/showthread.php?31133-Power-Couplers-CS-R-BC-Approved-290-(Feb-2017)-Open
-https://renev.biz/product/renev-r2d2-power-couplers-csr-aluminum-new/
+https://astromech.net/forums/showthread.php?31133-Power-Couplers-CS-R-BC-Approved-290-(Feb-2017)-Open  
+https://renev.biz/product/renev-r2d2-power-couplers-csr-aluminum-new/  
 
 **Octagonal Ports**  
 https://astromech.net/forums/showthread.php?32750-Octagon-Ports-CS-R-BC-Approved-275-(August-2017)-Open  
@@ -202,4 +202,82 @@ Ordered Nov 14th 2021
 
 ## Electronics
 
+**Stealth RC Control**  
+https://astromech.net/forums/showthread.php?13485-Stealth-RC-Controller-(-*-LIMITED-STOCK-Feb-2021-*)  
+http://www.surerobotics.com/store/index.php?route=product/product&product_id=73  
+
+**Drive Motors**  
+Q85 & Vex Omni 4WD  
+https://holmemadeparts.com/Q85-Vex-Omni-4WD_c27.htm  
+
+**Drive Motor Controller**  
+for Q85 brushless motors - need one - two channel unit.  
+https://www.roboteq.com/products/products-brushless-dc-motor-controllers/sbl2360t-detail  
+
+**Sabertooth 2x32 Motor Driver**  
+used for 3-2-3 system  
+ordered -- 6-24-2021  
+received  
+https://www.robotshop.com/en/  sabertooth-dual-2x32a-6v-24v-regenerative-motor-driver.html  
+
+**Flthy's Holoprojector LED/Servo Control/Regulator; BC Aprvd: [$100]**  
+https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Servo-System-Regulator-BC-Approved-100-(9-17)-Open  
+
+**Dataport logics & Charge Bay Indicators**  
+https://astromech.net/forums/showthread.php?15258-Dataport-logics-amp-Charge-Bay-Indicators-BC-Continuously-Approved-Various-Open  
+
+**Servo Controller**  
+https://www.curiousmarc.com/r2-d2/marcduino-system/marcduino-boards/marcduino-v1-5  
+
+**Power Supply (5VDC) for servo controller**  
+https://www.pololu.com/product/2866  
+
+**Servos for Dome Panels**  
+HiTec HS-65HB  
+bought six on 3/8/2021  
+https://www.servocity.com/hs-65hb-servo/  
+
+**Servos for Holo Projectors**  
+HiTec HS-53 <— scratch that, use HS-65HB instead  
+https://www.servocity.com/hs-53-servo/  
+
+**Servos for Utility Arms and Body Panels**  
+HiTec HS-645MG  
+https://www.servocity.com/hs-645mg-servo/  
+
+**Dome Lighting**  
+RSeries Logic Engine dome lighting kit  
+https://astromech.net/forums/showthread.php?40649-RSeries-Logic-Engine-dome-lighting-kit-250-(Jan-2021)-Open  
+
+**Teeces PSI**  
+https://astromech.net/droidwiki/Teeces_PSI  
+https://oshpark.com/shared_projects/IIwae2VY  
+https://astromech.net/droidwiki/Logic_Displays  
+
+**Arduino.cc**  
+https://store.arduino.cc/usa/sales/order/view/order_id/91142/  
+
+**PQ12-R Micro Linear Servos for RC & Arduino**  
+https://www.actuonix.com/Actuonix-PQ12-R-micro-linear-servos-for-RC-p/pq12-r.htm  
+
+**Dome Motor and Hub (purchased)**  
+https://www.pololu.com/product/4742  
+https://www.pololu.com/product/1999  <== 6mm hub  
+ordered 5/27/2021  
+arrived  
+
+**Dome Motor Controller**  
+SyRen 10A 6V-24V  
+https://www.robotshop.com/en/dimension-engineering-syren-10.html  
+ordered 6/24/2021  
+received  
+
+**Audio Amp**  
+Sure Electronics AA-AB32195 2x300W  
+https://www.parts-express.com/  Sure-AA-AB32195-2x300W-Class-D-Audio-Amplifier-Board-T-Amp-Technology-320-3348  
+Digital Volume Control Kit  
+https://www.parts-express.com/  Sure-AA-AA11117-Electric-Digital-Volume-Control-Kit-320-3180  
+
+**MagTag Magnetic Dome Connector**  
+https://astromech.net/forums/showthread.php?33643-MagTag-Magnetic-Dome-Connectors-BC-Approved-Continuous-Various-(Oct-2017)-Open  
 
