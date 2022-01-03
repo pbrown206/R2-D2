@@ -18,6 +18,11 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 *ordered -- 11/24/2021*  
 *received -- 12/1/2021*  
 
+**Body Hinges**  
+Holme Hinges for Body  
+https://holmemadeparts.com/R2-Body-Hinges-Holme-Made-Frame-Universal_c9.htm  
+*ordered -- 11/12/2021*  
+
 **Flat Side Plates for Holme Frame**  
 https://www.newwookiee.com/estore/products.asp?cat=182  
 *waiting for stock*  
