@@ -7,3 +7,5 @@ I've had an interest in robotics for a long while.  I got my first taste while i
 I had planned to begin with the dome as many do.  I ended up starting with the body because aliminum domes were not available.  I bought the HolmeMade frame with 3-2-3.  This is going to be an all aluminum build.    
 
 I continue to gather parts.  There is a parts list that you can follow.  
+
+I'll be using this repo for Python, Arduino, and any other code for the various systems that R2 has.  
