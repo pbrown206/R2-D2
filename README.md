@@ -8,4 +8,6 @@ I had planned to begin with the dome as many do.  I ended up starting with the b
 
 I continue to gather parts.  There is a parts list that you can follow.  
 
-I'll be using this repo for Python, Arduino, and any other code for the various systems that R2 has.  
+I'll be using this repo for Python, Arduino, and any other code for the various systems that R2 has.
+
+*Update Jan 3rd 2022* -- Learned that one should really keep quiet on the Astromech.net forum.  I think I have a lot to offer but will likely not be starting a build thread based on some negative interaction.  
