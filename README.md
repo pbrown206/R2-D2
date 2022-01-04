@@ -4,10 +4,10 @@ This is the start of my journey of building an R2-D2 astromech.  I'm a member of
 
 I've had an interest in robotics for a long while.  I got my first taste while in collage as a kid when tasks with fabricating and programing the hand for a larger class robot project.  
 
-I had planned to begin with the dome as many do.  I ended up starting with the body because aliminum domes were not available.  I bought the HolmeMade frame with 3-2-3.  This is going to be an all aluminum build.    
+I had planned to begin with the dome as many do.  I ended up starting with the body because aliminum domes were not available.  I bought the HolmeMade frame with 3-2-3.  This is going to be an all aluminum build.  
 
 I continue to gather parts.  There is a parts list that you can follow.  
 
-I'll be using this repo for Python, Arduino, and any other code for the various systems that R2 has.
+I'll be using this repo for Python, Arduino, and any other code for the various systems that R2 has.  
 
 *Update Jan 3rd 2022* -- Learned that one should really keep quiet on the Astromech.net forum.  I think I have a lot to offer but will likely not be starting a build thread based on some negative interaction.  
