@@ -6,10 +6,10 @@
 The Holme Made Frame and 3-2-3 System  
 https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now  
 https://holmemadeparts.com/Holme-Made-Frame-HMF.htm  
-*Ordered -- 2-25-2021*  
-*Paid via PayPal -- 5-5-2021*  
-*Shipped -- 6-5-2021*  
-*Arrived -- 6-9-2021*  
+*ordered -- 2-25-2021*  
+*paid via PayPal -- 5-5-2021*  
+*shipped -- 6-5-2021*  
+*arrived -- 6-9-2021*  
 
 **Skins**  
 CS:Rh - Skin version used for Kevin's Holme Made Frame  
@@ -22,6 +22,7 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 Holme Hinges for Body  
 https://holmemadeparts.com/R2-Body-Hinges-Holme-Made-Frame-Universal_c9.htm  
 *ordered -- 11/12/2021*  
+*paid via PayPal -- 01/04/2022*  
 
 **Flat Side Plates for Holme Frame**  
 https://www.newwookiee.com/estore/products.asp?cat=182  
@@ -30,11 +31,13 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 **Large Data Port**  
 https://renev.biz/product/renev-r2d2-large-data-port-csr-aluminum-new/  
 *ordered -- 12/24/2021*  
+*marked as complete -- 01/03/2022*  
 
 **Utility Arms**  
 https://astromech.net/forums/showthread.php?37695-BC-Approved-CS-R-Utility-Arms-(June-2019)-235  
 https://renev.biz/product/renev-r2d2-utility-arms-csr-aluminum-new/  
 *ordered -- 12/24/2021*  
+*marked as complete -- 01/03/2022*  
 
 **Utility Arm Mount System**  
 https://astromech.net/forums/showthread.php?34919-CS-L-CS-R-Skin-Mount-Utility-Arm-Carrier-and-Mech-Kit-BC-Approved-130-Open  
