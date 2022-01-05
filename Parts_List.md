@@ -262,6 +262,11 @@ https://astromech.net/droidwiki/Teeces_PSI
 https://oshpark.com/shared_projects/IIwae2VY  
 https://astromech.net/droidwiki/Logic_Displays  
 
+**PSI Pro**  
+PSI PRO Connected PSIs  
+https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-Run  
+https://astromech.net/forums/showthread.php?41301-BC-Approved-PSI-PRO-Connected-PSIs!!!-NEW-RUN-FOR-2021-(-55)-RUN-CLOSED  
+
 **Arduino.cc**  
 https://store.arduino.cc/usa/sales/order/view/order_id/91142/  
 
