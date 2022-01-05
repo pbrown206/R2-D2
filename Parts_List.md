@@ -257,12 +257,7 @@ https://www.servocity.com/hs-645mg-servo/
 RSeries Logic Engine dome lighting kit  
 https://astromech.net/forums/showthread.php?40649-RSeries-Logic-Engine-dome-lighting-kit-250-(Jan-2021)-Open  
 
-**Teeces PSI**  
-https://astromech.net/droidwiki/Teeces_PSI  
-https://oshpark.com/shared_projects/IIwae2VY  
-https://astromech.net/droidwiki/Logic_Displays  
-
-**PSI Pro**  
+**PSI**  
 PSI PRO Connected PSIs  
 https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-Run
 https://astromech.net/forums/showthread.php?39601-Support-Thread-for-the-PSI-Pro-Connected-V1-0-(Processor-State-Indicator)&p=528773#post528773    
