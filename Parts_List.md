@@ -264,7 +264,8 @@ https://astromech.net/droidwiki/Logic_Displays
 
 **PSI Pro**  
 PSI PRO Connected PSIs  
-https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-Run  
+https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-Run
+https://astromech.net/forums/showthread.php?39601-Support-Thread-for-the-PSI-Pro-Connected-V1-0-(Processor-State-Indicator)&p=528773#post528773    
 https://astromech.net/forums/showthread.php?41301-BC-Approved-PSI-PRO-Connected-PSIs!!!-NEW-RUN-FOR-2021-(-55)-RUN-CLOSED  
 
 **Arduino.cc**  
