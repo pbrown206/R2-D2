@@ -32,29 +32,32 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 https://renev.biz/product/renev-r2d2-large-data-port-csr-aluminum-new/  
 *ordered -- 12/24/2021*  
 *marked as complete -- 01/03/2022*  
+*received -- 01/10/2022*  
 
 **Utility Arms**  
 https://astromech.net/forums/showthread.php?37695-BC-Approved-CS-R-Utility-Arms-(June-2019)-235  
 https://renev.biz/product/renev-r2d2-utility-arms-csr-aluminum-new/  
 *ordered -- 12/24/2021*  
 *marked as complete -- 01/03/2022*  
+*received -- 01/10/2022*  
 
 **Utility Arm Mount System**  
 https://astromech.net/forums/showthread.php?34919-CS-L-CS-R-Skin-Mount-Utility-Arm-Carrier-and-Mech-Kit-BC-Approved-130-Open  
 https://skajarobotics.com/product/skin-mount-utility-arm-carrier-kit/  
 *ordered -- 11/28/2021*  
+*received -- 01/10/2022*  
 
 **Front Vents**  
 https://www.commandoeight.com/product-page/center-vent-set  
-
-**Side & Pocket Vents**  
-https://astromech.net/forums/showthread.php?28363-CS-L-amp-CS-R-Side-amp-Pocket-Vents-BC-Approved-Various-Open  
 
 **Coin Slots**  
 https://www.commandoeight.com/product-page/coin-slots-csr  
 
 **Coin Returns**  
 Came with skins  
+
+**Side & Pocket Vents**  
+https://astromech.net/forums/showthread.php?28363-CS-L-amp-CS-R-Side-amp-Pocket-Vents-BC-Approved-Various-Open  
 
 **Power Couplings**  
 https://astromech.net/forums/showthread.php?31133-Power-Couplers-CS-R-BC-Approved-290-(Feb-2017)-Open  
