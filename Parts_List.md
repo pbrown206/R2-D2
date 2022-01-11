@@ -249,8 +249,9 @@ https://www.servocity.com/hs-65hb-servo/
 *bought six on 3/8/2021*  
 
 **Servos for Holo Projectors**  
-HiTec HS-53 <— scratch that, use HS-65HB instead  
-https://www.servocity.com/hs-53-servo/  
+HiTec HS-65HB  
+Quantity 4  
+https://www.servocity.com/hs-65hb-servo/  
 
 **Servos for Utility Arms and Body Panels**  
 HiTec HS-645MG  
