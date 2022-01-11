@@ -208,7 +208,8 @@ https://www.prismaticpowders.com/shop/powder-coating-colors/PSS-0408/cloud-white
 
 **VEX Wheels for Center Foot**  
 https://www.vexrobotics.com/customer/account/?q=&locale.name=English  
-Ordered Nov 14th 2021  
+*ordered Nov 14th 2021*  
+*received*  
 
 
 ## Electronics
@@ -227,9 +228,9 @@ https://www.roboteq.com/products/products-brushless-dc-motor-controllers/sbl2360
 
 **Sabertooth 2x32 Motor Driver**  
 used for 3-2-3 system  
+https://www.robotshop.com/en/sabertooth-dual-2x32a-6v-24v-regenerative-motor-driver.html  
 *ordered -- 6-24-2021*  
 *received*  
-https://www.robotshop.com/en/  sabertooth-dual-2x32a-6v-24v-regenerative-motor-driver.html  
 
 **Flthy's Holoprojector LED/Servo Control/Regulator; BC Aprvd: [$100]**  
 https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Servo-System-Regulator-BC-Approved-100-(9-17)-Open  
