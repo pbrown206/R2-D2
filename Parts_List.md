@@ -100,7 +100,7 @@ https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-
 **CNC Polycarbonate Dome Gears**  
 https://astromech.net/forums/showthread.php?35844-CNC-Polycarbonate-Dome-Gears-60-(August-2018)-OPEN&highlight=open
 *ordered and paid for -- 6/13/2021*  
-*arrived -- 6/??/2021*  
+*received -- 6/??/2021*  
 
 **Curved Rear Logic Display + Front Logic Displays**  
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic
@@ -265,8 +265,9 @@ https://astromech.net/forums/showthread.php?40649-RSeries-Logic-Engine-dome-ligh
 **PSI**  
 PSI PRO Connected PSIs  
 https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-Run
-https://astromech.net/forums/showthread.php?39601-Support-Thread-for-the-PSI-Pro-Connected-V1-0-(Processor-State-Indicator)&p=528773#post528773    
-https://astromech.net/forums/showthread.php?41301-BC-Approved-PSI-PRO-Connected-PSIs!!!-NEW-RUN-FOR-2021-(-55)-RUN-CLOSED  
+https://astromech.net/forums/showthread.php?39601-Support-Thread-for-the-PSI-Pro-Connected-V1-0-(Processor-State-Indicator)&p=528773#post528773  
+https://astromech.net/forums/showthread.php?41953-BC-Approved-PSI-PRO-Connected-PSIs-2022-RUN-(-55)  
+*ordered -- 1-13-2022*  
 
 **Arduino.cc**  
 https://store.arduino.cc/usa/sales/order/view/order_id/91142/  
