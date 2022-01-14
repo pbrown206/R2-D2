@@ -268,6 +268,7 @@ https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-
 https://astromech.net/forums/showthread.php?39601-Support-Thread-for-the-PSI-Pro-Connected-V1-0-(Processor-State-Indicator)&p=528773#post528773  
 https://astromech.net/forums/showthread.php?41953-BC-Approved-PSI-PRO-Connected-PSIs-2022-RUN-(-55)  
 *ordered -- 1-13-2022*  
+*paid via PayPal -- 1-13-2022*  
 
 **Arduino.cc**  
 https://store.arduino.cc/usa/sales/order/view/order_id/91142/  
