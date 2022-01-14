@@ -281,6 +281,7 @@ https://www.pololu.com/product/4742
 https://www.pololu.com/product/1999  <== 6mm hub  
 *ordered 5/27/2021*  
 *arrived*  
+*Note that I changed to a Pittman as it fits the Holme frame better*  
 
 **Dome Motor Controller**  
 SyRen 10A 6V-24V  
