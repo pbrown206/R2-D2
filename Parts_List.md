@@ -298,3 +298,6 @@ https://www.parts-express.com/Sure-AA-AA11117-Electric-Digital-Volume-Control-Ki
 **MagTag Magnetic Dome Connector**  
 https://astromech.net/forums/showthread.php?33643-MagTag-Magnetic-Dome-Connectors-BC-Approved-Continuous-Various-(Oct-2017)-Open  
 
+**Slip Ring**  
+Slip Ring Adapter Boards  
+https://astromech.net/forums/showthread.php?15502-Slip-Ring-Adapter-Boards-BC-Approved-Continuous-80-(Jul-2013)-Open  
