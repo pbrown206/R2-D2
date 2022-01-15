@@ -11,3 +11,7 @@ I continue to gather parts.  There is a parts list that you can follow.
 I'll be using this repo for Python, Arduino, and any other code for the various systems that R2 has.  
 
 *Update Jan 3rd 2022* -- Learned that one should really keep quiet on the Astromech.net forum.  I think I have a lot to offer but will likely not be starting a build thread based on some negative interaction.  
+
+*Update Jan 10rd 2022* -- I assembled my new utility arm housing.  That is an impresive kit.  I am missing a part and am waiting for a replacement to arive.  I think I'll get the utility arms powder coated prior to installing in the housing.  
+
+*Update Jan 14rd 2022* -- I also installed the large data port (LDP). There was a little fiddling with the Holme frame to get it to fit.  The machined front upper frame ring needed some filing.  Also the spacer connecting the LDP shelf to that ring had the drilled and tapped holes just a but off center.  This required some clearancing with a course flat metal file.  It slides in well now.  It may be slightly too tall for the frame.  I'll probably get some washers to drop the shelf down a tiny bit so that the top of the LDP sits flush with the top of the frame.  
