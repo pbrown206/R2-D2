@@ -128,7 +128,7 @@ https://astromech.net/forums/showthread.php?40110-PSI-Diffuser-Lenses-by-Revvek-
 
 ## Legs and Feet
 
-*Main Leg*
+*Main Leg*  
 https://www.commandoeight.com/product-page/legs
 
 *Shoulder Flanges*
