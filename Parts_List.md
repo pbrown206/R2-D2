@@ -277,7 +277,7 @@ https://store.arduino.cc/usa/sales/order/view/order_id/91142/
 **PQ12-R Micro Linear Servos for RC & Arduino**  
 https://www.actuonix.com/Actuonix-PQ12-R-micro-linear-servos-for-RC-p/pq12-r.htm  
 
-**Dome Motor and Hub (purchased)**  
+**Dome Motor and Hub**  
 https://www.pololu.com/product/4742  
 https://www.pololu.com/product/1999  <== 6mm hub  
 *ordered 5/27/2021*  
