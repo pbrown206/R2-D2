@@ -9,7 +9,7 @@ https://holmemadeparts.com/Holme-Made-Frame-HMF.htm
 *ordered -- 2-25-2021*  
 *paid via PayPal -- 5-5-2021*  
 *shipped -- 6-5-2021*  
-*arrived -- 6-9-2021*  
+*received -- 6-9-2021*  
 
 **Skins**  
 CS:Rh - Skin version used for Kevin's Holme Made Frame  
@@ -281,7 +281,7 @@ https://www.actuonix.com/Actuonix-PQ12-R-micro-linear-servos-for-RC-p/pq12-r.htm
 https://www.pololu.com/product/4742  
 https://www.pololu.com/product/1999  <== 6mm hub  
 *ordered 5/27/2021*  
-*arrived*  
+*received*  
 *Note that I changed to a Pittman as it fits the Holme frame better*  
 
 **Dome Motor Controller**  
