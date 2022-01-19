@@ -88,7 +88,7 @@ DOME Aluminum, Laser Cut
 https://astromech.net/forums/showthread.php?35507-DOME-Aluminum-Laser-Cut-BC-Approved-539-2019
 
 **Radar Eye**  
-https://www.graniteearth.com/ProductDetails.asp?ProductCode=PAY-RadarEye-CSR-R2-Builders
+https://www.graniteearth.com/ProductDetails.asp?ProductCode=PAY-RadarEye-CSR-R2-Builders  
 *ordered 2/13/2021*  
 *received*  
 
