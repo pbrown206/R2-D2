@@ -2,7 +2,7 @@
 
 ## Body
 
-**Holme Frame with 3-2-3**  
+**Frame with 3-2-3**  
 The Holme Made Frame and 3-2-3 System  
 https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now  
 https://holmemadeparts.com/Holme-Made-Frame-HMF.htm  
