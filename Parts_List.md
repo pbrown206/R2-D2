@@ -302,3 +302,8 @@ https://astromech.net/forums/showthread.php?33643-MagTag-Magnetic-Dome-Connector
 **Slip Ring**  
 Slip Ring Adapter Boards  
 https://astromech.net/forums/showthread.php?15502-Slip-Ring-Adapter-Boards-BC-Approved-Continuous-80-(Jul-2013)-Open  
+
+**Voltmeters**  
+Voltmeter 2.5-30 VDC LED Chassis Mount  
+https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-14313/7564745  
+
