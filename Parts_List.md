@@ -135,39 +135,44 @@ https://www.commandoeight.com/product-page/legs
 built into Holme frame  
 
 **Shoulder Horseshoes**  
-https://www.commandoeight.com/product-page/horse-shoe-set  
+RENEV – R2D2 – Horse Shoes – CS:L/CS:R – Aluminum – (New)  
+https://renev.biz/product/renev-r2d2-horse-shoes-cslr-aluminum-new/  
 
 **Shoulder Hub**  
+RENEV – R2D2 – Shoulder Hubs – CS:L/CS:R – Aluminum – (New)  
+https://renev.biz/product/renev-r2d2-shoulder-hubs-csl-csr-aluminum-new/  
 
 **Booster Covers**  
+RENEV – R2D2 – Booster Covers – Aluminum – (New)  
+https://renev.biz/product/renev-r2d2-booster-covers-aluminum-new/  
 
 **Leg Struts**  
-https://www.commandoeight.com/product-page/aluminum-leg-struts
+https://www.commandoeight.com/product-page/aluminum-leg-struts  
 
 **Shoulder Hydraulics**  
-https://www.commandoeight.com/product-page/shoulder-hydraulic-set
+https://www.commandoeight.com/product-page/shoulder-hydraulic-set  
 
 **Shoulder Buttons**  
-https://www.commandoeight.com/product-page/shoulder-button-set
+https://www.commandoeight.com/product-page/shoulder-button-set  
 
 **Ankle Bracelet**  
 
 **Outer Ankles**  
-https://www.commandoeight.com/product-page/csr-outer-ankles
+https://www.commandoeight.com/product-page/csr-outer-ankles  
 
 **Ankle Details**  
-https://www.commandoeight.com/product-page/ankle-detail-set
+https://www.commandoeight.com/product-page/ankle-detail-set  
 
 **Ankle Cylinder Wedges**  
 
 **Ankle Cylinders**  
-https://www.commandoeight.com/product-page/ankle-cylinder-set
+https://www.commandoeight.com/product-page/ankle-cylinder-set  
 
 **Ankle Cylinder Holders**  
-https://www.commandoeight.com/product-page/ankle-cylinder-set
+https://www.commandoeight.com/product-page/ankle-cylinder-set  
 
 **Under Shoulder Details**  
-https://www.commandoeight.com/product-page/under-shoulder-detail-set-angled
+https://www.commandoeight.com/product-page/under-shoulder-detail-set-angled  
 
 **Main Footshell**  
 Outer  
