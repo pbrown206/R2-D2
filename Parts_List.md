@@ -23,6 +23,7 @@ Holme Hinges for Body
 https://holmemadeparts.com/R2-Body-Hinges-Holme-Made-Frame-Universal_c9.htm  
 *ordered -- 11/12/2021*  
 *paid via PayPal -- 01/04/2022*  
+*shipped -- 01/24/2022*  
 
 **Flat Side Plates for Holme Frame**  
 https://www.newwookiee.com/estore/products.asp?cat=182  
@@ -48,9 +49,11 @@ https://skajarobotics.com/product/skin-mount-utility-arm-carrier-kit/
 *received -- 01/10/2022*  
 
 **Front Vents**  
+Center Vent Set  
 https://www.commandoeight.com/product-page/center-vent-set  
 
 **Coin Slots**  
+Coin Slots, CSR  
 https://www.commandoeight.com/product-page/coin-slots-csr  
 
 **Coin Returns**  
