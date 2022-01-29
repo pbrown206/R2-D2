@@ -255,11 +255,11 @@ https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Serv
 **Dataport logics & Charge Bay Indicators**  
 https://astromech.net/forums/showthread.php?15258-Dataport-logics-amp-Charge-Bay-Indicators-BC-Continuously-Approved-Various-Open  
 
-**Servo Controller**  
-https://www.curiousmarc.com/r2-d2/marcduino-system/marcduino-boards/marcduino-v1-5  
+**Step-Down Voltage Regulators - 5V**  
+https://www.pololu.com/product/2881  
 
-**Power Supply (5VDC) for servo controller**  
-https://www.pololu.com/product/2866  
+**Step-Down Voltage Regulators - 6V**  
+https://www.pololu.com/product/2882  
 
 **Servos for Dome Panels**  
 HiTec HS-65HB  
@@ -268,7 +268,7 @@ https://www.servocity.com/hs-65hb-servo/
 
 **Servos for Holo Projectors**  
 HiTec HS-65HB  
-Quantity 4  
+Quantity 6  
 https://www.servocity.com/hs-65hb-servo/  
 
 **Servos for Utility Arms and Body Panels**  
