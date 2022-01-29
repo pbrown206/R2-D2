@@ -24,6 +24,15 @@ https://holmemadeparts.com/R2-Body-Hinges-Holme-Made-Frame-Universal_c9.htm
 *ordered -- 11/12/2021*  
 *paid via PayPal -- 01/04/2022*  
 *shipped -- 01/24/2022*  
+*received -- 01/28/2022*  
+
+**Data Panel**  
+Holme Made Data Panel  
+https://holmemadeparts.com/Data-Panels_c25.htm  
+*ordered -- 11/12/2021*  
+*paid via PayPal -- 01/04/2022*  
+*shipped -- 01/24/2022*  
+*received -- 01/28/2022*  
 
 **Flat Side Plates for Holme Frame**  
 https://www.newwookiee.com/estore/products.asp?cat=182  
