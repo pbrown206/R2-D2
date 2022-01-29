@@ -217,9 +217,9 @@ https://www.commandoeight.com/product-page/center-ankle
 **Hinges**  
 The Ultimate Hinge Collection, Dome & Body  
 https://holmemadeparts.com/R2-Dome-Hinges_c2.htm  
-https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN
+https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN  
 
-**Powder Coating**
+**Powder Coating**  
 https://www.prismaticpowders.com/shop/powder-coating-colors/PPB-4711/bentley-blue  
 https://www.prismaticpowders.com/shop/powder-coating-colors/PSS-0408/cloud-white  
 
