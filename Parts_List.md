@@ -324,3 +324,6 @@ https://astromech.net/forums/showthread.php?15502-Slip-Ring-Adapter-Boards-BC-Ap
 Voltmeter 2.5-30 VDC LED Chassis Mount  
 https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-14313/7564745  
 
+**I2C Extender**  
+Active I2C Long Cable Extender - 2 needed  
+https://sandboxelectronics.com/?product=active-i2c-long-cable-extender-p82b715-module  
