@@ -36,7 +36,8 @@ https://holmemadeparts.com/Data-Panels_c25.htm
 
 **Flat Side Plates for Holme Frame**  
 https://www.newwookiee.com/estore/products.asp?cat=182  
-*waiting for stock*  
+*ordered -- 02/24/2022*  
+*paid via PayPal -- 02/24/2022*  
 
 **Large Data Port**  
 https://renev.biz/product/renev-r2d2-large-data-port-csr-aluminum-new/  
