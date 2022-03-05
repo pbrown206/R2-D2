@@ -275,6 +275,8 @@ https://www.servocity.com/hs-65hb-servo/
 **Servos for Utility Arms and Body Panels**  
 HiTec HS-645MG  
 https://www.servocity.com/hs-645mg-servo/  
+*ordered -- 03/04/2022*  
+*paid via PayPal -- 03/04/2022*  
 
 **Dome Lighting**  
 RSeries Logic Engine dome lighting kit  
