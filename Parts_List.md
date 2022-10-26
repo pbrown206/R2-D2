@@ -77,6 +77,7 @@ https://astromech.net/forums/showthread.php?28363-CS-L-amp-CS-R-Side-amp-Pocket-
 https://astromech.net/forums/showthread.php?31133-Power-Couplers-CS-R-BC-Approved-290-(Feb-2017)-Open  
 https://renev.biz/product/renev-r2d2-power-couplers-csr-aluminum-new/  
 *ordered -- 06/20/2022*  
+*received*  
 
 **Octagonal Ports**  
 https://astromech.net/forums/showthread.php?32750-Octagon-Ports-CS-R-BC-Approved-275-(August-2017)-Open  
