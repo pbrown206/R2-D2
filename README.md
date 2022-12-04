@@ -17,3 +17,6 @@ I'll be using this repo for Python, Arduino, and any other code for the various 
 *Update Jan 14th 2022* -- I installed the large data port (LDP). There was a little fiddling with the Holme frame to get it to fit.  The machined front upper frame ring needed some filing.  Also the spacer connecting the LDP shelf to that ring had the drilled and tapped holes just a bit off-center.  This required some clearancing with a course flat metal file.  It slides in well now.  It may be slightly too tall for the frame.  I'll probably get some washers to drop the shelf down a tiny bit so that the top of the LDP sits flush with the top of the frame.  
 
 *Update Feb 24th 2022* -- I ordered the side plates for the Holmes frame  
+
+*Update Dec 3rd 2022* -- The dome was ordered today  
+
