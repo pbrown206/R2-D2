@@ -111,7 +111,7 @@ https://www.graniteearth.com/ProductDetails.asp?ProductCode=PAY-RadarEye-CSR-R2-
 *received*  
 
 **Radar Eye Lens**  
-https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-(September-2019)-Open&highlight=radar+eye+lens
+https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-(September-2019)-Open&highlight=radar+eye+lens  
 *ordered 2/13/2021*  
 *received*  
 
