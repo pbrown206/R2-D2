@@ -121,12 +121,12 @@ https://astromech.net/forums/showthread.php?35844-CNC-Polycarbonate-Dome-Gears-6
 *received -- 6/??/2021*  
 
 **Curved Rear Logic Display + Front Logic Displays**  
-https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic
-https://www.rebelscum.com/estore/products.asp?cat=182  
+https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic  
+https://www.newwookiee.com/estore/products.asp?cat=182  
 
 **Holo Projectors  — three needed (front, rear, top)**  
-https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-Approved-(Open)
-https://www.rebelscum.com/estore/products.asp?cat=182  
+https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-Approved-(Open)  
+https://www.newwookiee.com/estore/products.asp?cat=182  
 
 **Life Form Scanner**  
 https://astromech.net/forums/showthread.php?35947-Life-Form-Scanner-BC-Approved-170-(Oct-2018)-Open/page12&highlight=life+form+scanner  
