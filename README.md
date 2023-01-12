@@ -20,3 +20,4 @@ I'll be using this repo for Python, Arduino, and any other code for the various 
 
 *Update Dec 3rd 2022* -- The dome was ordered today  
 
+*Update Jan 11th 2023* -- The dome has arrived.  OPening the box revealed minor damage to the outer dome.  I emailed about it and was advised to just work the metal back into place.  I have a background in auto body repair so this was easy.  I started cutting the pie pieces from the inner dome.
