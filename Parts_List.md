@@ -145,6 +145,10 @@ https://www.rockler.com/lazy-susan-heavy-duty-swivel
 **PSI Diffusers**  
 https://astromech.net/forums/showthread.php?40110-PSI-Diffuser-Lenses-by-Revvek-BC-Approved-10-(August-2020)  
 
+**PSI Housings**  
+https://ia-parts.com/store/  
+*ordered 01/11/2023*  
+
 
 ## Legs and Feet
 
