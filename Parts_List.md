@@ -63,6 +63,7 @@ https://skajarobotics.com/product/skin-mount-utility-arm-carrier-kit/
 Center Vent Set  
 https://www.commandoeight.com/product-page/center-vent-set  
 *ordered -- 01/07/2023*  
+*shipped -- 01/10/2023*  
 
 **Coin Slots**  
 Coin Slots, CSR  
