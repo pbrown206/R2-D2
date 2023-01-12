@@ -150,6 +150,9 @@ https://ia-parts.com/store/
 https://astromech.net/forums/showthread.php?36853-Ultimate-PSI-set-2019-BC-approved-(-always)  
 *ordered 01/11/2023*  
 
+**Aluminum Dome Alignment Bullets**  
+https://astromech.net/forums/showthread.php?33855-Aluminum-Dome-Alignment-Bullets-BC-Approved-25-(Nov-2017)-Open  
+
 
 ## Legs and Feet
 
