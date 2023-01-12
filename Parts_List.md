@@ -153,6 +153,11 @@ https://astromech.net/forums/showthread.php?36853-Ultimate-PSI-set-2019-BC-appro
 **Aluminum Dome Alignment Bullets**  
 https://astromech.net/forums/showthread.php?33855-Aluminum-Dome-Alignment-Bullets-BC-Approved-25-(Nov-2017)-Open  
 
+**R2 Dome Hinges**  
+https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN  
+https://holmemadeparts.com/R2-Dome-Hinges_c2.htm  
+*ordered 01/11/2023*  
+
 
 ## Legs and Feet
 
