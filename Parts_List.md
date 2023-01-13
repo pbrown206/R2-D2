@@ -259,6 +259,9 @@ https://www.vexrobotics.com/customer/account/?q=&locale.name=English
 https://astromech.net/forums/showthread.php?13485-Stealth-RC-Controller-(-*-LIMITED-STOCK-Feb-2021-*)  
 http://www.surerobotics.com/store/index.php?route=product/product&product_id=73  
 
+**Warp Core Outer Rim**  
+https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
+
 **Drive Motors**  
 Q85 & Vex Omni 4WD  
 https://holmemadeparts.com/Q85-Vex-Omni-4WD_c27.htm  
