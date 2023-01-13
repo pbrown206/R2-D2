@@ -119,10 +119,15 @@ https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-
 
 **CNC Polycarbonate Dome Gears**  
 https://astromech.net/forums/showthread.php?35844-CNC-Polycarbonate-Dome-Gears-60-(August-2018)-OPEN&highlight=open
-*ordered and paid for -- 6/13/2021*  
-*received -- 6/??/2021*  
+*ordered and paid for -- 06/13/2021*  
+*received -- 06/??/2021*  
 
-**Curved Rear Logic Display + Front Logic Displays**  
+**Curved Rear Logic Display**  
+https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic  
+https://www.newwookiee.com/estore/products.asp?cat=182  
+*ordered and paid for -- 01/12/2023*  
+
+**Front Logic Displays**  
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic  
 https://www.newwookiee.com/estore/products.asp?cat=182  
 
