@@ -147,9 +147,6 @@ https://www.rockler.com/lazy-susan-heavy-duty-swivel
 *modified*  
 *installed*  
 
-**PSI Diffusers**  
-https://astromech.net/forums/showthread.php?40110-PSI-Diffuser-Lenses-by-Revvek-BC-Approved-10-(August-2020)  
-
 **Ultimate PSI Holder**  
 https://ia-parts.com/store/  
 https://astromech.net/forums/showthread.php?36853-Ultimate-PSI-set-2019-BC-approved-(-always)  
@@ -157,6 +154,7 @@ https://astromech.net/forums/showthread.php?36853-Ultimate-PSI-set-2019-BC-appro
 
 **Aluminum Dome Alignment Bullets**  
 https://astromech.net/forums/showthread.php?33855-Aluminum-Dome-Alignment-Bullets-BC-Approved-25-(Nov-2017)-Open  
+*ordered 01/12/2023*  
 
 **R2 Dome Hinges**  
 https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN  
