@@ -130,6 +130,7 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 **Front Logic Displays**  
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic  
 https://www.newwookiee.com/estore/products.asp?cat=182  
+*ordered -- 01/13/2023*  
 
 **Holo Projectors  — three needed (front, rear, top)**  
 https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-Approved-(Open)  
