@@ -64,6 +64,7 @@ Center Vent Set
 https://www.commandoeight.com/product-page/center-vent-set  
 *ordered -- 01/07/2023*  
 *shipped -- 01/10/2023*  
+*received -- 01/14/2023*  
 
 **Coin Slots**  
 Coin Slots, CSR  
@@ -109,12 +110,12 @@ https://astromech.net/forums/showthread.php?35507-DOME-Aluminum-Laser-Cut-BC-App
 
 **Radar Eye**  
 https://www.graniteearth.com/ProductDetails.asp?ProductCode=PAY-RadarEye-CSR-R2-Builders  
-*ordered 2/13/2021*  
+*ordered 02/13/2021*  
 *received*  
 
 **Radar Eye Lens**  
 https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-(September-2019)-Open&highlight=radar+eye+lens  
-*ordered 2/13/2021*  
+*ordered 02/13/2021*  
 *received*  
 
 **CNC Polycarbonate Dome Gears**  
