@@ -127,12 +127,14 @@ https://astromech.net/forums/showthread.php?35844-CNC-Polycarbonate-Dome-Gears-6
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic  
 https://www.newwookiee.com/estore/products.asp?cat=182  
 *ordered and paid for -- 01/12/2023*  
+*shipped -- 01/18/2023*  
 
 **Front Logic Displays**  
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic  
 https://www.newwookiee.com/estore/products.asp?cat=182  
 *ordered -- 01/13/2023*  
 *paid -- 01/14/2023*  
+*shipped -- 01/18/2023*  
 
 **Holo Projectors  — three needed (front, rear, top)**  
 https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-Approved-(Open)  
@@ -310,6 +312,7 @@ https://www.servocity.com/hs-645mg-servo/
 **Dome Lighting**  
 RSeries Logic Engine dome lighting kit  
 https://astromech.net/forums/showthread.php?40649-RSeries-Logic-Engine-dome-lighting-kit-250-(Jan-2021)-Open  
+*ordered -- 01/18/2023*  
 
 **PSI**  
 PSI PRO Connected PSIs  
