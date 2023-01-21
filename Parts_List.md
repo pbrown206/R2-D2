@@ -313,6 +313,7 @@ https://www.servocity.com/hs-645mg-servo/
 RSeries Logic Engine dome lighting kit  
 https://astromech.net/forums/showthread.php?40649-RSeries-Logic-Engine-dome-lighting-kit-250-(Jan-2021)-Open  
 *ordered -- 01/18/2023*  
+*paid via Venmo -- 01/20/2023*  
 
 **PSI**  
 PSI PRO Connected PSIs  
