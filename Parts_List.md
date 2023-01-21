@@ -160,6 +160,7 @@ https://astromech.net/forums/showthread.php?36853-Ultimate-PSI-set-2019-BC-appro
 **Aluminum Dome Alignment Bullets**  
 https://astromech.net/forums/showthread.php?33855-Aluminum-Dome-Alignment-Bullets-BC-Approved-25-(Nov-2017)-Open  
 *ordered 01/12/2023*  
+*shipped -- 01/18/2023*  
 
 **R2 Dome Hinges**  
 https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN  
@@ -266,6 +267,9 @@ http://www.surerobotics.com/store/index.php?route=product/product&product_id=73
 
 **Warp Core Outer Rim**  
 https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
+
+**Flthy's Holoprojector LED/Servo Control/Regulator**  
+https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Servo-System-Regulator-BC-Approved-100-(9-17)-Open  
 
 **Drive Motors**  
 Q85 & Vex Omni 4WD  
