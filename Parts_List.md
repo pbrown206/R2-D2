@@ -268,6 +268,9 @@ http://www.surerobotics.com/store/index.php?route=product/product&product_id=73
 **Warp Core Outer Rim**  
 https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
 
+**Warp Core Dome System**  
+https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-BC-Approved-Continuous-187-(Sep-2021)-Open  
+
 **Flthy's Holoprojector LED/Servo Control/Regulator**  
 https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Servo-System-Regulator-BC-Approved-100-(9-17)-Open  
 
