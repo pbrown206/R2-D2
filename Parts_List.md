@@ -128,6 +128,7 @@ https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Fron
 https://www.newwookiee.com/estore/products.asp?cat=182  
 *ordered and paid for -- 01/12/2023*  
 *shipped -- 01/18/2023*  
+*received -- 01/24/2023*  
 
 **Front Logic Displays**  
 https://astromech.net/forums/showthread.php?40077-Curved-Rear-Logic-Display-Front-Logic-Displays&highlight=logic  
@@ -135,6 +136,7 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 *ordered -- 01/13/2023*  
 *paid -- 01/14/2023*  
 *shipped -- 01/18/2023*  
+*received -- 01/24/2023*  
 
 **Holo Projectors  — three needed (front, rear, top)**  
 https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-Approved-(Open)  
@@ -161,6 +163,7 @@ https://astromech.net/forums/showthread.php?36853-Ultimate-PSI-set-2019-BC-appro
 https://astromech.net/forums/showthread.php?33855-Aluminum-Dome-Alignment-Bullets-BC-Approved-25-(Nov-2017)-Open  
 *ordered 01/12/2023*  
 *shipped -- 01/18/2023*  
+*received -- 01/24/2023*  
 
 **R2 Dome Hinges**  
 https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN  
