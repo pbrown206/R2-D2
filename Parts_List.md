@@ -324,15 +324,16 @@ RSeries Logic Engine dome lighting kit
 https://astromech.net/forums/showthread.php?40649-RSeries-Logic-Engine-dome-lighting-kit-250-(Jan-2021)-Open  
 *ordered -- 01/18/2023*  
 *paid via Venmo -- 01/20/2023*  
+*received -- 01/28/2023*  
 
 **PSI**  
 PSI PRO Connected PSIs  
-https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-Run
+https://astromech.net/forums/showthread.php?41843-Parts-Ordered-for-New-PSI-PRO-Run  
 https://astromech.net/forums/showthread.php?39601-Support-Thread-for-the-PSI-Pro-Connected-V1-0-(Processor-State-Indicator)&p=528773#post528773  
 https://astromech.net/forums/showthread.php?41953-BC-Approved-PSI-PRO-Connected-PSIs-2022-RUN-(-55)  
-*ordered -- 1-13-2022*  
-*paid via PayPal -- 1-13-2022*  
-*received -- 1-19-2022*  
+*ordered -- 01-13-2022*  
+*paid via PayPal -- 01-13-2022*  
+*received -- 01-19-2022*  
 
 **Arduino.cc**  
 https://store.arduino.cc/usa/sales/order/view/order_id/91142/  
