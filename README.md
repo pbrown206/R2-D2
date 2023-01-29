@@ -25,3 +25,5 @@ I'll be using this repo for Python, Arduino, and any other code for the various 
 *Update Jan 16th 2023* -- My dome plan was to just check that it was received in good shape and them place in storage.  That didn't work out.  I've been tinkering.  Both domes have been cleaned of flashing.  I've cut out five pie pieces from the inner dome.  The outer dome is still uncut until I sand and polish.
 
 Additional work was done on the body.  I used JBWeld ro attach the control arms to the utility arms.  The utility arm housing has been fitted to the front inner skin.  It shows that I'll need to open up the skin a little.  I was also able to mount the front power coupler.
+
+*Update Jan 28th 2023* -- RSeries lighting arived.  I'll be assembling these into Philips surrounds tomorrow.  
