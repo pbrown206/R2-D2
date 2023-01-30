@@ -27,3 +27,6 @@ I'll be using this repo for Python, Arduino, and any other code for the various 
 Additional work was done on the body.  I used JBWeld ro attach the control arms to the utility arms.  The utility arm housing has been fitted to the front inner skin.  It shows that I'll need to open up the skin a little.  I was also able to mount the front power coupler.
 
 *Update Jan 28th 2023* -- RSeries lighting arived.  I'll be assembling these into Philips surrounds tomorrow.  
+
+*Update Jan 28th 2023* -- I assembled the RSeries lights today.  The rear logic with the curved surrount was a real PITA.  Gettong those fibers in place was a big job.  They look great.  
+
