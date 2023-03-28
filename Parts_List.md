@@ -170,6 +170,7 @@ https://astromech.net/forums/showthread.php?33855-Aluminum-Dome-Alignment-Bullet
 https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN  
 https://holmemadeparts.com/R2-Dome-Hinges_c2.htm  
 *ordered 01/11/2023*  
+*paid 03/26/2023*  
 
 
 ## Legs and Feet
