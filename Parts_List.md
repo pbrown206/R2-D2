@@ -75,6 +75,7 @@ Came with skins
 
 **Side & Pocket Vents**  
 https://astromech.net/forums/showthread.php?28363-CS-L-amp-CS-R-Side-amp-Pocket-Vents-BC-Approved-Various-Open  
+*ordered -- 08/21/2023*  
 
 **Power Couplings**  
 https://astromech.net/forums/showthread.php?31133-Power-Couplers-CS-R-BC-Approved-290-(Feb-2017)-Open  
