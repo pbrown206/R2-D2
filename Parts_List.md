@@ -87,6 +87,7 @@ https://renev.biz/product/renev-r2d2-power-couplers-csr-aluminum-new/
 https://astromech.net/forums/showthread.php?32750-Octagon-Ports-CS-R-BC-Approved-275-(August-2017)-Open  
 https://renev.biz/product/renev-r2d2-octagon-ports-csr-aluminum-new/  
 *ordered -- 12/29/2023*  
+*shipped -- 01/08/2024*  
 
 **Skirt**  
 https://astromech.net/forums/showthread.php?20429-Skirt-BC-Approved-300-(Dec-2014)-Open  
