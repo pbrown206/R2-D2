@@ -179,6 +179,16 @@ https://holmemadeparts.com/R2-Dome-Hinges_c2.htm
 *paid 03/26/2023*  
 *received -- 05/5/2023*  
 
+**Warp Core Outer Rim**  
+https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
+
+**Warp Core Base Plate v2.0**  
+https://astromech.net/forums/showthread.php?40578-Warp-Core-Base-Plate-v2-0-BC-Approved-Continuous-250-(Dec-2020)-Open  
+
+**Warp Core Dome System PCB Set**  
+https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-BC-Approved-Continuous-187-(Sep-2021)-Open  
+
+
 ## Legs and Feet
 
 *Main Leg*  
