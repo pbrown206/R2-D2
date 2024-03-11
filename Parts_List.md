@@ -78,6 +78,7 @@ https://astromech.net/forums/showthread.php?28363-CS-L-amp-CS-R-Side-amp-Pocket-
 *ordered -- 08/21/2023*  
 *paid -- 03/02/2024*  
 *shipped -- 03/05/2024*  
+*received -- 03/08/2024*  
 
 **Power Couplings**  
 https://astromech.net/forums/showthread.php?31133-Power-Couplers-CS-R-BC-Approved-290-(Feb-2017)-Open  
