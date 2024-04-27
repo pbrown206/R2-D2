@@ -193,7 +193,9 @@ https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-
 ## Legs and Feet
 
 *Main Leg*  
-https://www.commandoeight.com/product-page/legs
+https://www.commandoeight.com/product-page/legs  
+*ordered -- 4-27-2024*  
+*paid via PayPal -- 4-27-2024*  
 
 *Shoulder Flanges*
 built into Holme frame  
