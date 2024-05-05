@@ -254,6 +254,7 @@ https://www.commandoeight.com/product-page/aluminum-center-foot-shell
 
 **Battery Boxes**  
 https://astromech.net/forums/showthread.php?40030-CS-R-Aluminum-Battery-Boxes-BC-Approved-305-(July-2020)-Open  
+https://www.r2d2parts.net  
 
 **Battery Box Harnesses**  
 https://www.commandoeight.com/product-page/battery-harness-set  
