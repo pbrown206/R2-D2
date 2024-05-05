@@ -249,6 +249,7 @@ https://www.commandoeight.com/product-page/aluminum-center-foot-shell
 **Foot Side Plate**  
 
 **Half Moon Details**  
+https://astromech.net/forums/showthread.php?33870-Half-Moons-ANH-and-ESB-(Club-Specs)-versions-BC-Approved  
 
 **Foot Details**  
 
