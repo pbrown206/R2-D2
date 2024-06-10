@@ -196,6 +196,7 @@ https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-
 https://www.commandoeight.com/product-page/legs  
 *ordered -- 4-27-2024*  
 *paid via PayPal -- 4-27-2024*  
+*received -- 5-30-2024*  
 
 *Shoulder Flanges*
 built into Holme frame  
@@ -203,6 +204,8 @@ built into Holme frame
 **Shoulder Horseshoes**  
 RENEV – R2D2 – Horse Shoes – CS:L/CS:R – Aluminum – (New)  
 https://renev.biz/product/renev-r2d2-horse-shoes-cslr-aluminum-new/  
+*ordered -- 6-10-2024*  
+*paid via PayPal -- 6-10-2024*  
 
 **Shoulder Hub**  
 RENEV – R2D2 – Shoulder Hubs – CS:L/CS:R – Aluminum – (New)  
