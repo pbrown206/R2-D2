@@ -202,8 +202,8 @@ https://www.commandoeight.com/product-page/legs
 built into Holme frame  
 
 **Shoulder Horseshoes**  
-RENEV – R2D2 – Horse Shoes – CS:L/CS:R – Aluminum – (New)  
-https://renev.biz/product/renev-r2d2-horse-shoes-cslr-aluminum-new/  
+Horse Shoe Set - C8  
+https://www.commandoeight.com/product-page/horse-shoe-set/  
 *ordered -- 6-10-2024*  
 *paid via PayPal -- 6-10-2024*  
 
