@@ -148,6 +148,8 @@ https://www.newwookiee.com/estore/products.asp?cat=182
 **Holo Projectors  — three needed (front, rear, top)**  
 https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-Approved-(Open)  
 https://www.newwookiee.com/estore/products.asp?cat=182  
+*ordered -- 06/15/2024*  
+*paid -- 06/15/2024*  
 
 **Life Form Scanner**  
 https://astromech.net/forums/showthread.php?35947-Life-Form-Scanner-BC-Approved-170-(Oct-2018)-Open/page12&highlight=life+form+scanner  
