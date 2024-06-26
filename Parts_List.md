@@ -150,6 +150,7 @@ https://astromech.net/forums/showthread.php?38886-Holo-Projectors-Wide-Mouth-BC-
 https://www.newwookiee.com/estore/products.asp?cat=182  
 *ordered -- 06/15/2024*  
 *paid -- 06/15/2024*  
+*received -- 06/24/2024*  
 
 **Life Form Scanner**  
 https://astromech.net/forums/showthread.php?35947-Life-Form-Scanner-BC-Approved-170-(Oct-2018)-Open/page12&highlight=life+form+scanner  
@@ -180,7 +181,7 @@ https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-
 https://holmemadeparts.com/R2-Dome-Hinges_c2.htm  
 *ordered 01/11/2023*  
 *paid 03/26/2023*  
-*received -- 05/5/2023*  
+*received -- 05/05/2023*  
 
 **Warp Core Outer Rim**  
 https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
@@ -196,9 +197,9 @@ https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-
 
 *Main Leg*  
 https://www.commandoeight.com/product-page/legs  
-*ordered -- 4-27-2024*  
-*paid via PayPal -- 4-27-2024*  
-*received -- 5-30-2024*  
+*ordered -- 04-27-2024*  
+*paid via PayPal -- 04-27-2024*  
+*received -- 05-30-2024*  
 
 *Shoulder Flanges*
 built into Holme frame  
@@ -206,8 +207,9 @@ built into Holme frame
 **Shoulder Horseshoes**  
 Horse Shoe Set - C8  
 https://www.commandoeight.com/product-page/horse-shoe-set/  
-*ordered -- 6-10-2024*  
-*paid via PayPal -- 6-10-2024*  
+*ordered -- 06-10-2024*  
+*paid via PayPal -- 06-10-2024*  
+*shipped -- 06-25-2024*  
 
 **Shoulder Hub**  
 RENEV – R2D2 – Shoulder Hubs – CS:L/CS:R – Aluminum – (New)  
