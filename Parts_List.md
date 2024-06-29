@@ -69,6 +69,8 @@ https://www.commandoeight.com/product-page/center-vent-set
 **Coin Slots**  
 Coin Slots, CSR  
 https://www.commandoeight.com/product-page/coin-slots-csr  
+*ordered -- 06-29-2024*  
+*paid via PayPal -- 06-29-2024*  
 
 **Coin Returns**  
 Came with skins  
@@ -221,12 +223,18 @@ https://renev.biz/product/renev-r2d2-booster-covers-aluminum-new/
 
 **Leg Struts**  
 https://www.commandoeight.com/product-page/aluminum-leg-struts  
+*ordered -- 06-29-2024*  
+*paid via PayPal -- 06-29-2024*  
 
 **Shoulder Hydraulics**  
 https://www.commandoeight.com/product-page/shoulder-hydraulic-set  
+*ordered -- 06-29-2024*  
+*paid via PayPal -- 06-29-2024*  
 
 **Shoulder Buttons**  
 https://www.commandoeight.com/product-page/shoulder-button-set  
+*ordered -- 06-29-2024*  
+*paid via PayPal -- 06-29-2024*  
 
 **Ankle Bracelet**  
 
@@ -246,6 +254,8 @@ https://www.commandoeight.com/product-page/ankle-cylinder-set
 
 **Under Shoulder Details**  
 https://www.commandoeight.com/product-page/under-shoulder-detail-set-angled  
+*ordered -- 06-29-2024*  
+*paid via PayPal -- 06-29-2024*  
 
 **Main Footshell**  
 Outer  
