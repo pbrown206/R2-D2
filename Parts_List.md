@@ -288,7 +288,7 @@ https://www.prismaticpowders.com/shop/powder-coating-colors/PSS-0408/cloud-white
 
 **VEX Wheels for Center Foot**  
 https://www.vexrobotics.com/customer/account/?q=&locale.name=English  
-*ordered Nov 14th 2021*  
+*ordered 11-28-2021*  
 *received*  
 
 
@@ -318,7 +318,7 @@ https://www.roboteq.com/products/products-brushless-dc-motor-controllers/sbl2360
 **Sabertooth 2x32 Motor Driver**  
 used for 3-2-3 system  
 https://www.robotshop.com/en/sabertooth-dual-2x32a-6v-24v-regenerative-motor-driver.html  
-*ordered -- 6-24-2021*  
+*ordered -- 06-24-2021*  
 *received*  
 
 **Flthy's Holoprojector LED/Servo Control/Regulator; BC Aprvd: [$100]**  
@@ -336,7 +336,7 @@ https://www.pololu.com/product/2882
 **Servos for Dome Panels**  
 HiTec HS-65HB  
 https://www.servocity.com/hs-65hb-servo/  
-*bought six on 3/8/2021*  
+*bought six on 03/08/2021*  
 
 **Servos for Holo Projectors**  
 HiTec HS-65HB  
@@ -374,14 +374,14 @@ https://www.actuonix.com/Actuonix-PQ12-R-micro-linear-servos-for-RC-p/pq12-r.htm
 **Dome Motor and Hub**  
 https://www.pololu.com/product/4742  
 https://www.pololu.com/product/1999  <== 6mm hub  
-*ordered 5/27/2021*  
+*ordered 05/27/2021*  
 *received*  
 *Note that I changed to a Pittman as it fits the Holme frame better*  
 
 **Dome Motor Controller**  
 SyRen 10A 6V-24V  
 https://www.robotshop.com/en/dimension-engineering-syren-10.html  
-*ordered 6/24/2021*  
+*ordered 06/24/2021*  
 *received*  
 
 **Audio Amp**  
@@ -404,3 +404,8 @@ https://www.digikey.com/en/products/detail/sparkfun-electronics/PRT-14313/756474
 **I2C Extender**  
 Active I2C Long Cable Extender - 2 needed  
 https://sandboxelectronics.com/?product=active-i2c-long-cable-extender-p82b715-module  
+
+**Wireless Communication Board (WCB)**  
+https://astromech.net/forums/showthread.php?44271-Wireless-Communication-Boards-(WCB)-Continuous-23-JAN-2024  
+Quantity 3  
+*ordered 06/28/2024*  
