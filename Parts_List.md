@@ -6,17 +6,17 @@
 The Holme Made Frame and 3-2-3 System  
 https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now  
 https://holmemadeparts.com/Holme-Made-Frame-HMF.htm  
-*ordered -- 2-25-2021*  
-*paid via PayPal -- 5-5-2021*  
-*shipped -- 6-5-2021*  
-*received -- 6-9-2021*  
+*ordered -- 02-25-2021*  
+*paid via PayPal -- 05-05-2021*  
+*shipped -- 06-05-2021*  
+*received -- 06-09-2021*  
 
 **Skins**  
 CS:Rh - Skin version used for Kevin's Holme Made Frame  
 https://astromech.net/forums/showthread.php?28258-Skins-CS-L-amp-CS-R-BC-Approved-275-(May-2016)-Open  
 https://www.newwookiee.com/estore/products.asp?cat=182  
 *ordered -- 11/24/2021*  
-*received -- 12/1/2021*  
+*received -- 12/01/2021*  
 
 **Body Hinges**  
 Holme Hinges for Body  
@@ -119,12 +119,12 @@ https://astromech.net/forums/showthread.php?35507-DOME-Aluminum-Laser-Cut-BC-App
 
 **Radar Eye**  
 https://www.graniteearth.com/ProductDetails.asp?ProductCode=PAY-RadarEye-CSR-R2-Builders  
-*ordered 02/13/2021*  
+*ordered -- 02/13/2021*  
 *received*  
 
 **Radar Eye Lens**  
 https://astromech.net/forums/showthread.php?38244-Radar-Eye-Lens-BC-Approved-15-(September-2019)-Open&highlight=radar+eye+lens  
-*ordered 02/13/2021*  
+*ordered -- 02/13/2021*  
 *received*  
 
 **CNC Polycarbonate Dome Gears**  
@@ -169,20 +169,20 @@ https://www.rockler.com/lazy-susan-heavy-duty-swivel
 **Ultimate PSI Holder**  
 https://ia-parts.com/store/  
 https://astromech.net/forums/showthread.php?36853-Ultimate-PSI-set-2019-BC-approved-(-always)  
-*ordered 01/11/2023*  
+*ordered -- 01/11/2023*  
 *received -- 02/06/2023*  
 
 **Aluminum Dome Alignment Bullets**  
 https://astromech.net/forums/showthread.php?33855-Aluminum-Dome-Alignment-Bullets-BC-Approved-25-(Nov-2017)-Open  
-*ordered 01/12/2023*  
+*ordered -- 01/12/2023*  
 *shipped -- 01/18/2023*  
 *received -- 01/24/2023*  
 
 **R2 Dome Hinges**  
 https://astromech.net/forums/showthread.php?29016-The-Ultimate-Hinge-Collection-Dome-amp-Body-BC-Approved-28-(Jul-2016)-OPEN  
 https://holmemadeparts.com/R2-Dome-Hinges_c2.htm  
-*ordered 01/11/2023*  
-*paid 03/26/2023*  
+*ordered -- 01/11/2023*  
+*paid -- 03/26/2023*  
 *received -- 05/05/2023*  
 
 **Warp Core Outer Rim**  
@@ -197,13 +197,13 @@ https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-
 
 ## Legs and Feet
 
-*Main Leg*  
+**Main Leg**  
 https://www.commandoeight.com/product-page/legs  
 *ordered -- 04-27-2024*  
 *paid via PayPal -- 04-27-2024*  
 *received -- 05-30-2024*  
 
-*Shoulder Flanges*
+**Shoulder Flanges**  
 built into Holme frame  
 
 **Shoulder Horseshoes**  
