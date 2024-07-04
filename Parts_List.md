@@ -212,6 +212,7 @@ https://www.commandoeight.com/product-page/horse-shoe-set/
 *ordered -- 06-10-2024*  
 *paid via PayPal -- 06-10-2024*  
 *shipped -- 06-25-2024*  
+*received -- 07-01-2024*  
 
 **Shoulder Hub**  
 RENEV – R2D2 – Shoulder Hubs – CS:L/CS:R – Aluminum – (New)  
@@ -225,16 +226,19 @@ https://renev.biz/product/renev-r2d2-booster-covers-aluminum-new/
 https://www.commandoeight.com/product-page/aluminum-leg-struts  
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
+*shipped -- 07-04-2024*  
 
 **Shoulder Hydraulics**  
 https://www.commandoeight.com/product-page/shoulder-hydraulic-set  
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
+*shipped -- 07-04-2024*  
 
 **Shoulder Buttons**  
 https://www.commandoeight.com/product-page/shoulder-button-set  
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
+*shipped -- 07-04-2024*  
 
 **Ankle Bracelet**  
 
@@ -256,6 +260,7 @@ https://www.commandoeight.com/product-page/ankle-cylinder-set
 https://www.commandoeight.com/product-page/under-shoulder-detail-set-angled  
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
+*shipped -- 07-04-2024*  
 
 **Main Footshell**  
 Outer  
