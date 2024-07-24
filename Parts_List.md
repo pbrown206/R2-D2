@@ -220,8 +220,8 @@ RENEV – R2D2 – Shoulder Hubs – CS:L/CS:R – Aluminum – (New)
 https://renev.biz/product/renev-r2d2-shoulder-hubs-csl-csr-aluminum-new/  
 
 **Booster Covers**  
-RENEV – R2D2 – Booster Covers – Aluminum – (New)  
-https://renev.biz/product/renev-r2d2-booster-covers-aluminum-new/  
+https://www.commandoeight.com/product-page/extended-booster-cover-set  
+*ordered -- 07-23-2024*  
 
 **Leg Struts**  
 https://www.commandoeight.com/product-page/aluminum-leg-struts  
