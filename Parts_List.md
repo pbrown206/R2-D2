@@ -222,24 +222,28 @@ https://renev.biz/product/renev-r2d2-shoulder-hubs-csl-csr-aluminum-new/
 **Booster Covers**  
 https://www.commandoeight.com/product-page/extended-booster-cover-set  
 *ordered -- 07-23-2024*  
+*shipped -- 08-10-2024*  
 
 **Leg Struts**  
 https://www.commandoeight.com/product-page/aluminum-leg-struts  
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
 *shipped -- 07-10-2024*  
+*recieved -- *  
 
 **Shoulder Hydraulics**  
 https://www.commandoeight.com/product-page/shoulder-hydraulic-set  
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
 *shipped -- 07-10-2024*  
+*recieved -- *  
 
 **Shoulder Buttons**  
 https://www.commandoeight.com/product-page/shoulder-button-set  
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
 *shipped -- 07-10-2024*  
+*recieved -- *  
 
 **Ankle Bracelet**  
 
