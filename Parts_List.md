@@ -331,7 +331,7 @@ https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Serv
 
 **Drive Motors**  
 Q85 & Vex Omni 4WD  
-https://holmemadeparts.com/Q85-Vex-Omni-4WD_c27.htm  
+https://holmemadeparts.com/shop/ols/products/q85-based-4wd-for-r-series-droids  
 
 **Drive Motor Controller**  
 for Q85 brushless motors - need one - two channel unit.  
