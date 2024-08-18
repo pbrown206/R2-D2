@@ -270,10 +270,10 @@ https://www.commandoeight.com/product-page/under-shoulder-detail-set-angled
 *shipped -- 07-10-2024*  
 
 **Main Footshell**  
-Outer  
-https://www.commandpatrickbrownoeight.com/product-page/aluminum-outer-footshell-set-2  
-Center  
-https://www.commandoeight.com/product-page/aluminum-center-foot-shell  
+Outer and Center  
+Warp Shells - Total Foot Shell System  
+https://astromech.net/forums/showthread.php?36946-Warp-Shells-Total-Foot-Shell-System-BC-Approved-1575-(February-2019)-Open  
+
 
 **Foot Side Plate**  
 
