@@ -223,6 +223,7 @@ https://renev.biz/product/renev-r2d2-shoulder-hubs-csl-csr-aluminum-new/
 https://www.commandoeight.com/product-page/extended-booster-cover-set  
 *ordered -- 07-23-2024*  
 *shipped -- 08-10-2024*  
+*recieved -- 08-16-2024*  
 
 **Leg Struts**  
 https://www.commandoeight.com/product-page/aluminum-leg-struts  
