@@ -72,6 +72,7 @@ https://www.commandoeight.com/product-page/coin-slots-csr
 *ordered -- 06-29-2024*  
 *paid via PayPal -- 06-29-2024*  
 *shipped -- 07-10-2024*  
+*received -- *  
 
 **Coin Returns**  
 Came with skins  
