@@ -431,4 +431,4 @@ https://sandboxelectronics.com/?product=active-i2c-long-cable-extender-p82b715-m
 https://astromech.net/forums/showthread.php?44271-Wireless-Communication-Boards-(WCB)-Continuous-23-JAN-2024  
 Quantity 3  
 *ordered 06/28/2024*  
-*recieved *  
+*recieved -- *  
