@@ -332,7 +332,7 @@ https://holmemadeparts.com/shop/ols/products/q85-based-4wd-for-r-series-droids
 
 **Drive Motor Controller**  
 for Q85 brushless motors - need one - two channel unit.  
-https://www.roboteq.com/products/products-brushless-dc-motor-controllers/sbl2360t-detail  
+https://www.roboteq.com/products/products-brushless-dc-motor-controllers/sbl2360t-393-detail  
 
 **Sabertooth 2x32 Motor Driver**  
 used for 3-2-3 system  
