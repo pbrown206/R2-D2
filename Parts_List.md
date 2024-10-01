@@ -340,9 +340,6 @@ https://www.robotshop.com/en/sabertooth-dual-2x32a-6v-24v-regenerative-motor-dri
 *ordered -- 06-24-2021*  
 *received*  
 
-**Flthy's Holoprojector LED/Servo Control/Regulator; BC Aprvd: [$100]**  
-https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Servo-System-Regulator-BC-Approved-100-(9-17)-Open  
-
 **Dataport logics & Charge Bay Indicators**  
 https://astromech.net/forums/showthread.php?15258-Dataport-logics-amp-Charge-Bay-Indicators-BC-Continuously-Approved-Various-Open  
 
