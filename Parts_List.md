@@ -326,9 +326,6 @@ https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approve
 **Warp Core Dome System**  
 https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-BC-Approved-Continuous-187-(Sep-2021)-Open  
 
-**Flthy's Holoprojector LED/Servo Control/Regulator**  
-https://astromech.net/forums/showthread.php?33317-Flthy-s-Holoprojector-LED-Servo-System-Regulator-BC-Approved-100-(9-17)-Open  
-
 **Drive Motors**  
 Q85 & Vex Omni 4WD  
 https://holmemadeparts.com/shop/ols/products/q85-based-4wd-for-r-series-droids  
