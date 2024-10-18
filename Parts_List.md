@@ -187,6 +187,11 @@ https://holmemadeparts.com/R2-Dome-Hinges_c2.htm
 *paid -- 03/26/2023*  
 *received -- 05/05/2023*  
 
+**Dome Plate - Six Spoke**  
+https://astromech.net/forums/showthread.php?38709-Dome-Plates-BC-Approved-54-66-(December-2019)-Open  
+https://artoo-detoo.co.uk/product/dome-plate-six-spoke-type-c  
+*ordered -- 10/18/2024*  
+
 **Warp Core Outer Rim**  
 https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
 
