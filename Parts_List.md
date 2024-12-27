@@ -253,6 +253,12 @@ https://www.commandoeight.com/product-page/shoulder-button-set
 *recieved -- *  
 
 **Ankle Bracelet**  
+https://www.commandoeight.com/product-page/csr-extended-ankle-bracelet-set  
+*ordered -- 12-26-2024*  
+
+**Center Ankle Mounting Block**  
+https://www.commandoeight.com/product-page/center-ankle-mounting-block  
+*ordered -- 12-26-2024*  
 
 **Outer Ankles**  
 https://www.commandoeight.com/product-page/csr-outer-ankles  
