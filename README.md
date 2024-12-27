@@ -34,3 +34,5 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Jul 23th 2024* -- I ordered the wrong booster covers.  I emailed C8 to let them know.  
 
+*Update Dec 26th 2024* -- Ordered ankle bracelets and center foot bracket.  
+
