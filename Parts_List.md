@@ -284,7 +284,8 @@ https://www.commandoeight.com/product-page/under-shoulder-detail-set-angled
 Outer and Center  
 Warp Shells - Total Foot Shell System  
 https://astromech.net/forums/showthread.php?36946-Warp-Shells-Total-Foot-Shell-System-BC-Approved-1575-(February-2019)-Open  
-
+*paid -- 04-27-2025*  
+*paid -- 05-02-2025*  
 
 **Foot Side Plate**  
 
