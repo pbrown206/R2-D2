@@ -306,6 +306,7 @@ https://www.commandoeight.com/product-page/battery-harness-set
 
 **Knurled Fittings**  
 https://www.commandoeight.com/product-page/knurl-hosefittings  
+*ordered -- 12/19/2025*  
 
 **Foot Strips**  
 
