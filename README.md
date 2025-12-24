@@ -36,3 +36,6 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Dec 26th 2024* -- Ordered ankle bracelets and center foot bracket.  
 
+*Update Dec 24th 2025* -- I can't believe it's been a whole year and no update.  I've been working on other projects around the house and a couple car projects.  I'll start with the dome sanding.  I'm going to build a PVC stand today.  
+
+
