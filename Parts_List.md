@@ -260,6 +260,7 @@ https://www.commandoeight.com/product-page/csr-extended-ankle-bracelet-set
 https://www.commandoeight.com/product-page/center-ankle-mounting-block  
 *ordered -- 12-26-2024*  
 *ordered again -- 12-07-2025*  
+*second order cncelled*  
 
 **Outer Ankles**  
 https://www.commandoeight.com/product-page/csr-outer-ankles  
@@ -314,6 +315,7 @@ https://www.commandoeight.com/product-page/knurl-hosefittings
 https://www.commandoeight.com/product-page/center-ankle  
 *ordered -- 12/07/2025*  
 *paid -- 12/07/2025*  
+*shipped -- 12/26/2025*  
 
 **Hinges**  
 The Ultimate Hinge Collection, Dome & Body  
