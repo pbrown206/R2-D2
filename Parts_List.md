@@ -349,8 +349,9 @@ Q85 & Vex Omni 4WD
 https://holmemadeparts.com/shop/ols/products/q85-based-4wd-for-r-series-droids  
 
 **Drive Motor Controller**  
-for Q85 brushless motors - need one - two channel unit.  
-https://www.roboteq.com/products/products-brushless-dc-motor-controllers/sbl2360t-393-detail  
+for Q85 brushless motors - need one - two channel unit.
+SLBG2360T  
+https://www.robotshop.com/products/roboteq-sblg2360t-gen-4-brushless-dc-motor-controller-2-x-30a-60v?variant=43027827425441  
 
 **Sabertooth 2x32 Motor Driver**  
 used for 3-2-3 system  
