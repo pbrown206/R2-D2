@@ -4,7 +4,7 @@ This is the start of my journey of building an R2-D2 astromech.  I'm a member of
 
 I've had an interest in robotics for a long while.  I got my first taste while in collage as a kid when tasked with fabricating and programing the hand for a larger class robot project.  
 
-I had planned to begin with the dome as many do.  I ended up starting with the body because aliminum domes were not available.  I bought the HolmeMade frame with 3-2-3.  This is going to be an all aluminum build.  
+I had planned to begin with the dome as many do.  I ended up starting with the body because aluminum domes were not available.  I bought the HolmeMade frame with 2-3-2.  This is going to be an all aluminum build.  
 
 I continue to gather parts.  There is a parts list that you can follow.  
 
