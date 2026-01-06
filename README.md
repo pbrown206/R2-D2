@@ -28,9 +28,9 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Jan 28th 2023* -- RSeries lighting arived.  I'll be assembling these into Philips surrounds tomorrow.  
 
-*Update Jan 28th 2023* -- I assembled the RSeries lights today.  The rear logic with the curved surrount was a real PITA.  Gettong those fibers in place was a big job.  They look great.  
+*Update Jan 28th 2023* -- I assembled the RSeries lights today.  The rear logic with the curved surrount was a real PITA.  Getting those fibers in place was a big job.  They look great.  
 
-*Update Jul 20th 2024* -- I installed the legs on R2 after modding for the 3-2-3.  
+*Update Jul 20th 2024* -- I installed the legs on R2 after modding for 2-3-2.  
 
 *Update Jul 23th 2024* -- I ordered the wrong booster covers.  I emailed C8 to let them know.  
 
