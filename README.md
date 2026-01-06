@@ -38,4 +38,5 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Dec 24th 2025* -- I can't believe it's been a whole year and no update.  I've been working on other projects around the house and a couple car projects.  I'll start with the dome sanding.  I'm going to build a PVC stand today.  
 
+*Update Jan 5th 2026* -- It's a new year.  I've been working on the dome.  I have the alignment finallized.  Three HPs are instaled along with the radar eye.  Next up - sanding.  So fun.  
 
