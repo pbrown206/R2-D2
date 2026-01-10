@@ -308,6 +308,7 @@ https://www.commandoeight.com/product-page/battery-harness-set
 **Knurled Fittings**  
 https://www.commandoeight.com/product-page/knurl-hosefittings  
 *ordered -- 12/19/2025*  
+*received -- 01/10/2026*  
 
 **Foot Strips**  
 
@@ -316,6 +317,7 @@ https://www.commandoeight.com/product-page/center-ankle
 *ordered -- 12/07/2025*  
 *paid -- 12/07/2025*  
 *shipped -- 12/26/2025*  
+*received -- 01/10/2026*  
 
 **Hinges**  
 The Ultimate Hinge Collection, Dome & Body  
