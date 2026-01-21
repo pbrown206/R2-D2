@@ -40,3 +40,5 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Jan 5th 2026* -- It's a new year.  I've been working on the dome.  I have the alignment finallized.  Three HPs are instaled along with the radar eye.  Next up - sanding.  So fun.  I ordered the wheel motor controller.  
 
+*Update Jan 20th 2026* -- I'm assembling my Rlogic logic displays.  Assembly is going well except that I need some additional 4-40 fasteners for the aluminum bezels.  I'll try to pick up some tomorrow.
+
