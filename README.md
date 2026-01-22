@@ -42,3 +42,7 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Jan 20th 2026* -- I'm assembling my Rlogic logic displays.  Assembly is going well except that I need some additional 4-40 fasteners for the aluminum bezels.  I'll try to pick up some tomorrow.
 
+*Update Jan 21th 2026* -- I finished the front logic displays.  They look great.  The black fiber guides are fragile.  I broke a piece but it will work fine.
+
+
+
