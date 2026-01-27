@@ -191,12 +191,15 @@ https://holmemadeparts.com/R2-Dome-Hinges_c2.htm
 https://astromech.net/forums/showthread.php?38709-Dome-Plates-BC-Approved-54-66-(December-2019)-Open  
 https://artoo-detoo.co.uk/product/dome-plate-six-spoke-type-c  
 *ordered -- 10/18/2024*  
+*received -- *  
 
 **Warp Core Outer Rim**  
 https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
 
 **Warp Core Base Plate v2.0**  
 https://astromech.net/forums/showthread.php?40578-Warp-Core-Base-Plate-v2-0-BC-Approved-Continuous-250-(Dec-2020)-Open  
+*ordered -- 01/23/2026*  
+*received -- 01/27/2026*  
 
 **Warp Core Dome System PCB Set**  
 https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-BC-Approved-Continuous-187-(Sep-2021)-Open  
