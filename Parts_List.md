@@ -2,8 +2,8 @@
 
 ## Body
 
-**Frame with 3-2-3**  
-The Holme Made Frame and 3-2-3 System  
+**Frame with 2-3-2**  
+The Holme Made Frame and 2-3-2 System  
 https://astromech.net/forums/showthread.php?36208-The-Holme-Made-Frame-990-Available-Now  
 https://holmemadeparts.com/Holme-Made-Frame-HMF.htm  
 *ordered -- 02-25-2021*  
@@ -195,6 +195,7 @@ https://artoo-detoo.co.uk/product/dome-plate-six-spoke-type-c
 
 **Warp Core Outer Rim**  
 https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
+*ordered -- 01/28/2026*  
 
 **Warp Core Base Plate v2.0**  
 https://astromech.net/forums/showthread.php?40578-Warp-Core-Base-Plate-v2-0-BC-Approved-Continuous-250-(Dec-2020)-Open  
