@@ -46,5 +46,5 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Jan 27th 2026* -- Worked with a small flat file to open up dome for logics.  They fit.
 
-*Update Jan 28th 2026* -- Begin dome sanding.
+*Update Jan 28th 2026* -- Begin dome sanding with 320 grit wet.  
 
