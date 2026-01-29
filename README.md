@@ -44,5 +44,7 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Jan 21th 2026* -- I finished the front logic displays.  They look great.  The black fiber guides are fragile.  I broke a piece but it will work fine.
 
+*Update Jan 27th 2026* -- Worked with a small flat file to open up dome for logics.  They fit.
 
+*Update Jan 28th 2026* -- Begin dome sanding.
 
