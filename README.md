@@ -48,3 +48,5 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Jan 28th 2026* -- Begin dome sanding with 320 grit wet.  
 
+*Update Jan 29th 2026* -- Continue dome sanding with 320 grit wet.  Hope to finish the 320 tomorrow and switch to 400.  
+
