@@ -54,7 +54,9 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Feb 2nd 2026* -- Dome sanding.  I finished the 320 grit and moved to 400 grit.    
 
-*Update Feb 3rd 2026* -- Dome sanding.  400 grit is done.  Now working on 600 grit.  
+*Update Feb 3rd 2026* -- Dome sanding.  400 grit is in the works.  
+
+*Update Feb 4th 2026* -- Dome sanding.  400 grit is done.  Now working on 600 grit.  
 
 
 
