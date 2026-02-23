@@ -205,6 +205,19 @@ https://astromech.net/forums/showthread.php?40578-Warp-Core-Base-Plate-v2-0-BC-A
 **Warp Core Dome System PCB Set**  
 https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-BC-Approved-Continuous-187-(Sep-2021)-Open  
 
+**Greg Hulette 3D Printed Periscope Lifter and Rotary Kits**  
+https://astromech.net/forums/showthread.php?45802-Greg-Hulette-3D-Printed-Periscope-Lifter-and-Rotary-Kits-(-550)
+
+**Uppity Spinner: Periscope Lifter and Rotary PCB**  
+https://astromech.net/forums/showthread.php?42923-Uppity-Spinner-Periscope-Lifter-and-Rotary-PCB  
+
+**Motors for periscope lifter - one each**  
+https://www.pololu.com/product/4757  
+https://www.pololu.com/product/4847  
+
+**IA Periscope Kit**  
+bought from Part Junkyard   
+*received -- 02/01/2026*  
 
 ## Legs and Feet
 
