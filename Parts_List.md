@@ -217,6 +217,7 @@ https://astromech.net/forums/showthread.php?42923-Uppity-Spinner-Periscope-Lifte
 https://www.pololu.com/product/4757  
 https://www.pololu.com/product/4847  
 *ordered -- 02/24/2026*  
+*shipped -- 02/25/2026*  
 
 **IA Periscope Kit**  
 bought from Part Junkyard   
