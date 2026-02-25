@@ -207,9 +207,11 @@ https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-
 
 **Greg Hulette 3D Printed Periscope Lifter and Rotary Kits**  
 https://astromech.net/forums/showthread.php?45802-Greg-Hulette-3D-Printed-Periscope-Lifter-and-Rotary-Kits-(-550)
+*ordered -- 02/22/2026*  
 
 **Uppity Spinner: Periscope Lifter and Rotary PCB**  
 https://astromech.net/forums/showthread.php?42923-Uppity-Spinner-Periscope-Lifter-and-Rotary-PCB  
+*ordered -- 02/24/2026*  
 
 **Motors for periscope lifter - one each**  
 https://www.pololu.com/product/4757  
