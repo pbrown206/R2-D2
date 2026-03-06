@@ -196,6 +196,7 @@ https://artoo-detoo.co.uk/product/dome-plate-six-spoke-type-c
 **Warp Core Outer Rim**  
 https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
 *ordered -- 01/28/2026*  
+*received -- *  
 
 **Warp Core Base Plate v2.0**  
 https://astromech.net/forums/showthread.php?40578-Warp-Core-Base-Plate-v2-0-BC-Approved-Continuous-250-(Dec-2020)-Open  
@@ -362,12 +363,7 @@ https://www.vexrobotics.com/customer/account/?q=&locale.name=English
 **Stealth RC Control**  
 https://astromech.net/forums/showthread.php?13485-Stealth-RC-Controller-(-*-LIMITED-STOCK-Feb-2021-*)  
 http://www.surerobotics.com/store/index.php?route=product/product&product_id=73  
-
-**Warp Core Outer Rim**  
-https://astromech.net/forums/showthread.php?43047-Warp-Core-Outer-Rim-BC-Approved-Continuous-265-(Dec-2022)-Open  
-
-**Warp Core Dome System**  
-https://astromech.net/forums/showthread.php?41490-Warp-Core-Dome-System-PCB-Set-BC-Approved-Continuous-187-(Sep-2021)-Open  
+*ordered & paid -- 03-05-2026*  
 
 **Drive Motors**  
 Q85 & Vex Omni 4WD  
