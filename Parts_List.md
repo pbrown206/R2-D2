@@ -213,6 +213,7 @@ https://astromech.net/forums/showthread.php?45802-Greg-Hulette-3D-Printed-Perisc
 **Uppity Spinner: Periscope Lifter and Rotary PCB**  
 https://astromech.net/forums/showthread.php?42923-Uppity-Spinner-Periscope-Lifter-and-Rotary-PCB  
 *ordered -- 02/24/2026*  
+*paid -- 03/09/2026*  
 
 **Motors for periscope lifter - one each**  
 https://www.pololu.com/product/4757  
