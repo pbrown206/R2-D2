@@ -226,6 +226,9 @@ https://www.pololu.com/product/4847
 bought from Part Junkyard   
 *received -- 02/01/2026*  
 
+**Dome Button**  
+*shipped 03/10/2026*  
+
 ## Legs and Feet
 
 **Main Leg**  
