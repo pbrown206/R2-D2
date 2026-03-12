@@ -62,3 +62,13 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Feb 7th 2026* -- Dome sanding.  Finished 800 grit.  Now working on 1000 grit.  
 
+*Update - date unknown* -- Dome sanded to 1500 and polished with Mother's polish.  
+
+*Update Mar 7th, 2026* -- Removed dome panels.  
+
+*Update Mar 8th, 2026* -- Installed one pie hinge.  
+
+*Update Mar 10th, 2026* -- Installed four more pie hinges.  
+
+*Update Mar 11th, 2026* -- Started to cut additional panels from inner dome.  
+
