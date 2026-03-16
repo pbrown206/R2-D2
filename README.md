@@ -72,3 +72,6 @@ Additional work was done on the body.  I used JBWeld ro attach the control arms 
 
 *Update Mar 11th, 2026* -- Started to cut additional panels from inner dome.  
 
+*Updare Mar 15th, 2026* -- Finished the last dome hinge install.  I also assembled the outer-rim.  The initial soldering is done.  I need to order the pins for all the dome electronics.
+
+
