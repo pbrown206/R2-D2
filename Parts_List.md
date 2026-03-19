@@ -369,6 +369,7 @@ https://www.vexrobotics.com/customer/account/?q=&locale.name=English
 https://astromech.net/forums/showthread.php?13485-Stealth-RC-Controller-(-*-LIMITED-STOCK-Feb-2021-*)  
 http://www.surerobotics.com/store/index.php?route=product/product&product_id=73  
 *ordered & paid -- 03-05-2026*  
+*received -- 03-16-2026*  
 
 **Drive Motors**  
 Q85 & Vex Omni 4WD  
