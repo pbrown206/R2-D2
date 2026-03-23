@@ -12,20 +12,28 @@
 // i2c Library for communication with main Stealth Controller
 #include <Wire.h> 
 
+unsigned long loopTime; // We keep track of the "time" in this variable.
+
+// -------------------------------------------------
+// Define some constants to help reference objects, 
+// pins, servos, leds etc by name instead of numbers
+// -------------------------------------------------
+
+#define STATUS_LED 13 // Our Status LED on Arduino Digital IO #13, this is the built in LED on the Pro Mini
 // These are easy names for our Arduino I/O pins and what they're used for 
 // Note on the servo expander board, numbering starts at 1,2,3 etc. 
 // but internally we add 1 to get the real Arduino number. 
 
 #define PP1_SERVO 2   // Servo Pin 1 -  Internally this is Arduino Digitial #2 
 #define PP2_SERVO 3   // Servo Pin 2
-#define PP5_SERVO 4   // Servo Pin 3
-#define PP6_SERVO 5   // Servo Pin 4
+#define PP3_SERVO 4   // Servo Pin 3
+#define PP4_SERVO 5   // Servo Pin 4
 #define DP1_SERVO 6   // Servo Pin 5
 #define DP2_SERVO 7   // Servo Pin 6
 #define DP3_SERVO 8   // Servo Pin 7
 #define DP4_SERVO 9   // Servo Pin 8
-#define DP7_SERVO 10   // Servo Pin 9
-#define DP10_SERVO 11   // Servo Pin 10
+#define DP5_SERVO 10   // Servo Pin 9
+#define DP6_SERVO 11   // Servo Pin 10
 
 // Create an array of VarSpeedServo type, containing 5 elements/entries. 
 // Note: Arrays are zero indexed. See http://arduino.cc/en/Reference/array
@@ -51,17 +59,20 @@ VarSpeedServo Servos[NBR_SERVOS]; // An Array of Servos, numbered 0 thru 4.
 #define WAVESPEED 180
 #define WAVEDELAY 100 // Delay between waving panels (milliseconds)
 
+
 // Some variables to keep track off what's open
 boolean piesOpen=false;
 
 int i2cCommand = 0;
 int myi2c = 10; // our i2c address
 
+
 // New outgoing i2c Commands
 String Packet;
 int count = 0;
 byte sum;
 #define DESTI2C 0
+
 
 //-----------------------------------------------------------
 // Setup everything
@@ -98,6 +109,171 @@ void setup() {
 
   Serial.println("Waiting for i2c command");
 }
+
+
+//----------------------------------------------------------------------------
+// New i2c Commands
+//----------------------------------------------------------------------------
+void sendI2Ccmd(String cmd) {
+  
+  sum=0;
+  Wire.beginTransmission(DESTI2C);
+  for (int i=0;i<cmd.length();i++) {
+//    Serial.print("TX=");
+//    Serial.println(Packet[i]);
+    Wire.write(cmd[i]);
+    sum+=byte(cmd[i]);
+  }
+//  Serial.print("Checksum=");
+//  Serial.println(sum);
+  Wire.write(sum);
+  Wire.endTransmission();  
+  
+}
+
+
+//------------------------------------------------------
+// i2c Command Event Handler
+void receivei2cEvent(int howMany) {
+  i2cCommand = Wire.read();    // receive i2c command
+}
+
+
+//---------------------------------------------------------
+// Open/Close Pies
+void OpenClosePies() {
+
+    digitalWrite(STATUS_LED, HIGH); // turn on STATUS LED so we can visually see we got the command on the board     
+    //Open or close  All Pie Panels
+    
+    Serial.print("Pie Panels: ");
+    
+    if (piesOpen) { // Close the Pie Panels
+      Serial.println("Closing");
+      piesOpen=false;
+      // Attach to PIE1-4 so we can move them
+      // We could do this in a loop with some math as well.
+      Servos[PIE1].attach(PP1_SERVO);
+      Servos[PIE2].attach(PP2_SERVO);
+      Servos[PIE3].attach(PP3_SERVO);
+      Servos[PIE4].attach(PP4_SERVO);
+
+      // Close them in a non-sequencial order and not at the same time to make it more interesting
+      // Basically 2, then 2
+      Servos[PIE1].write(NEUTRAL,CLOSESPEED);
+      Servos[PIE2].write(NEUTRAL,CLOSESPEED,true); // wait
+      Servos[PIE3].write(NEUTRAL,CLOSESPEED);
+      Servos[PIE4].write(NEUTRAL,CLOSESPEED,true); // wait
+
+      // Detach from the Pies      
+      Servos[PIE1].detach();
+      Servos[PIE2].detach();
+      Servos[PIE3].detach();
+      Servos[PIE4].detach();
+
+      Serial.println("Closed");
+       
+    } else { // Open Pie Panels
+      Serial.println("Opening");
+      piesOpen=true;
+
+      // Attach to PIE1-4 so we can move them
+      // This time we'll do it as a loop instead of calling out individual Pie panels
+      // This only works because the numbers and pins are sequencial
+      for (int i=PIE1; i<=PIE4;i++) {
+        Serial.print("Open ");
+        Serial.println(i+1); // PIE=0, so we add one for the print statement
+        Servos[i].attach(PP1_SERVO+i);
+        Servos[i].write(NEUTRAL+PIE_ADD_DEGREES,OPENSPEED);
+      }
+      Serial.println("Opened");
+    }
+    i2cCommand=-1; // always reset i2cCommand to -1, so we don't repeatedly do the same command
+    digitalWrite(STATUS_LED, LOW);
+}
+
+
+//---------------------------------------------------------
+// Wave Pies
+void Wave1() {
+
+    Serial.println("Wave Panels 1");
+    digitalWrite(STATUS_LED, HIGH); // turn on STATUS LED so we can visually see we got the command on the board 
+    // Wave 1
+    for (int i=PIE1; i<=PIE4;i++) {
+      Servos[i].attach(PP1_SERVO +i);
+      Servos[i].write(NEUTRAL,150);
+    }
+
+    for (int i=0; i<4; i++) { 
+      Serial.println("Wave");
+      Servos[PIE1].write(NEUTRAL+PIE_ADD_DEGREES,WAVESPEED);
+      delay(WAVEDELAY);
+      Servos[PIE2].write(NEUTRAL+PIE_ADD_DEGREES,WAVESPEED);
+      delay(WAVEDELAY);
+      Servos[PIE3].write(NEUTRAL+PIE_ADD_DEGREES,WAVESPEED);
+      delay(WAVEDELAY);
+      Servos[PIE4].write(NEUTRAL+PIE_ADD_DEGREES,WAVESPEED);
+      delay(WAVEDELAY *2.5);
+      Servos[PIE4].write(NEUTRAL,WAVESPEED);
+      delay(WAVEDELAY);
+      Servos[PIE3].write(NEUTRAL,WAVESPEED);
+      delay(WAVEDELAY);
+      Servos[PIE2].write(NEUTRAL,WAVESPEED);
+      delay(WAVEDELAY);
+      Servos[PIE1].write(NEUTRAL,WAVESPEED);
+      delay(WAVEDELAY * 2);
+    }
+    
+    // Disconnect from our servos
+    for (int i=PIE1; i<=PIE4;i++) 
+        Servos[i].detach();
+
+    Serial.println("Wave Done");
+
+    i2cCommand=-1; // always reset i2cCommand to -1, so we don't repeatedly do the same command
+    digitalWrite(STATUS_LED, LOW);
+}
+
+
+//-----------------------------------------------------------------------------------------------
+// Scream / Wave Pies 2 - this is my short ciruit/panic routine
+// This is a pretty complex routine. In summary we will do the following:
+// Play Scream Sound, and in a loop flap servos, blink HP LEDs
+void Wave2() {
+
+}
+
+//-----------------------------------------------------------------------------------------------
+void OpenOnePie() {
+    // to be implemented
+    digitalWrite(STATUS_LED, HIGH); // turn on STATUS LED so we can visually see we got the command on the board 
+    Serial.println("Open One Panel");
+    i2cCommand=-1; // always reset i2cCommand to -1, so we don't repeatedly do the same command
+    digitalWrite(STATUS_LED, LOW);
+}
+
+
+//-----------------------------------------------------------------------------------------------
+// Wave Side Panel Flap
+void WaveFlap() {
+  digitalWrite(STATUS_LED, HIGH); // turn on STATUS LED so we can visually see we got the command on the board 
+  Serial.println("Wave Flap");
+  Servos[FLAP].attach(FLAP_SERVO_PIN);
+  for (int i=0;i<4;i++) {
+      Serial.print("Wave Servo ");
+      Serial.println(FLAP-1);
+      Servos[FLAP].write(140,60,true); // Move to max position and wait till it moved fully
+      Servos[FLAP].write(NEUTRAL,60,true); // Move back to center/neutral and wait till it's moved fully
+  }
+  Servos[FLAP].write(NEUTRAL-3,255,true); // On my dome I have to make sure the panel is all the way close before detaching
+  delay(100);
+  Servos[FLAP].detach();
+  i2cCommand=-1; // always reset i2cCommand to -1, so we don't repeatedly do the same command
+  digitalWrite(STATUS_LED, LOW);
+  Serial.println("Wave Flap Done");
+}
+
 
 //-----------------------------------------------------------
 // Main Loop
