@@ -402,6 +402,7 @@ https://www.pololu.com/product/2882
 HiTec HS-65HB  
 https://www.servocity.com/hs-65hb-servo/  
 *bought six on 03/08/2021*  
+*bought six more 3/18/2026*  
 
 **Servos for Holo Projectors**  
 HiTec HS-65HB  
