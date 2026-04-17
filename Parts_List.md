@@ -214,6 +214,7 @@ https://astromech.net/forums/showthread.php?45802-Greg-Hulette-3D-Printed-Perisc
 https://astromech.net/forums/showthread.php?42923-Uppity-Spinner-Periscope-Lifter-and-Rotary-PCB  
 *ordered -- 02/24/2026*  
 *paid -- 03/09/2026*  
+*shipped -- 04/14/2026*  
 
 **Motors for periscope lifter - one each**  
 https://www.pololu.com/product/4757  
@@ -408,6 +409,7 @@ https://www.servocity.com/hs-65hb-servo/
 HiTec HS-65HB  
 Quantity 6  
 https://www.servocity.com/hs-65hb-servo/  
+*ordered -- 04/16/2026*  
 
 **Servos for Utility Arms and Body Panels**  
 HiTec HS-645MG  
